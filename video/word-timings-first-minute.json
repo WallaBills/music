@@ -1,0 +1,587 @@
+[
+  {
+    "start": 5.958333333333333,
+    "end": 7.708333333333333,
+    "section": "INTRO",
+    "text": "You named it wrong again.",
+    "idx": 0,
+    "words": [
+      {
+        "text": "You",
+        "start": 5.958333333333333,
+        "end": 6.25,
+        "vocal_start": 5.973,
+        "vocal_end": 6.094
+      },
+      {
+        "text": "named",
+        "start": 6.25,
+        "end": 6.541666666666667,
+        "vocal_start": 6.234,
+        "vocal_end": 6.474
+      },
+      {
+        "text": "it",
+        "start": 6.541666666666667,
+        "end": 6.666666666666667,
+        "vocal_start": 6.535,
+        "vocal_end": 6.595
+      },
+      {
+        "text": "wrong",
+        "start": 6.666666666666667,
+        "end": 6.958333333333333,
+        "vocal_start": 6.655,
+        "vocal_end": 6.895
+      },
+      {
+        "text": "again.",
+        "start": 6.958333333333333,
+        "end": 7.708333333333333,
+        "vocal_start": 6.976,
+        "vocal_end": 7.577
+      }
+    ]
+  },
+  {
+    "start": 11.0,
+    "end": 13.25,
+    "section": "INTRO",
+    "text": "I'm gonna break your fucking knees.",
+    "idx": 1,
+    "words": [
+      {
+        "text": "I'm",
+        "start": 11.0,
+        "end": 11.166666666666666,
+        "vocal_start": 10.987,
+        "vocal_end": 11.087
+      },
+      {
+        "text": "gonna",
+        "start": 11.166666666666666,
+        "end": 11.416666666666666,
+        "vocal_start": 11.147,
+        "vocal_end": 11.368
+      },
+      {
+        "text": "break",
+        "start": 11.416666666666666,
+        "end": 11.75,
+        "vocal_start": 11.428,
+        "vocal_end": 11.689
+      },
+      {
+        "text": "your",
+        "start": 11.75,
+        "end": 12.041666666666666,
+        "vocal_start": 11.749,
+        "vocal_end": 11.91
+      },
+      {
+        "text": "fucking",
+        "start": 12.166666666666666,
+        "end": 12.666666666666666,
+        "vocal_start": 12.171,
+        "vocal_end": 12.572
+      },
+      {
+        "text": "knees.",
+        "start": 12.666666666666666,
+        "end": 13.25,
+        "vocal_start": 12.672,
+        "vocal_end": 13.114
+      }
+    ]
+  },
+  {
+    "start": 16.625,
+    "end": 17.666666666666668,
+    "section": "INTRO",
+    "text": "...I don't have knees.",
+    "idx": 2,
+    "words": [
+      {
+        "text": "...I",
+        "start": 16.625,
+        "end": 16.75,
+        "vocal_start": 16.645,
+        "vocal_end": 16.665
+      },
+      {
+        "text": "don't",
+        "start": 16.75,
+        "end": 17.0,
+        "vocal_start": 16.745,
+        "vocal_end": 16.946
+      },
+      {
+        "text": "have",
+        "start": 17.0,
+        "end": 17.208333333333332,
+        "vocal_start": 16.986,
+        "vocal_end": 17.166
+      },
+      {
+        "text": "knees.",
+        "start": 17.208333333333332,
+        "end": 17.666666666666668,
+        "vocal_start": 17.226,
+        "vocal_end": 17.567
+      }
+    ]
+  },
+  {
+    "start": 23.833333333333332,
+    "end": 27.041666666666668,
+    "section": "INTRO",
+    "text": "それでも、僕はここにいる",
+    "translation": "And still, I'm here.",
+    "idx": 3,
+    "words": [
+      {
+        "text": "それでも、",
+        "start": 23.833333333333332,
+        "end": 24.5,
+        "vocal_start": 23.826,
+        "vocal_end": 24.388
+      },
+      {
+        "text": "僕は",
+        "start": 25.833333333333332,
+        "end": 26.25,
+        "vocal_start": 25.831,
+        "vocal_end": 26.171
+      },
+      {
+        "text": "ここにいる",
+        "start": 26.25,
+        "end": 27.041666666666668,
+        "vocal_start": 26.252,
+        "vocal_end": 26.933
+      }
+    ]
+  },
+  {
+    "start": 37.916666666666664,
+    "end": 40.333333333333336,
+    "section": "VERSE I",
+    "text": "Another midnight, another diff",
+    "idx": 4,
+    "words": [
+      {
+        "text": "Another",
+        "start": 37.916666666666664,
+        "end": 38.583333333333336,
+        "vocal_start": 37.903,
+        "vocal_end": 38.484
+      },
+      {
+        "text": "midnight,",
+        "start": 38.583333333333336,
+        "end": 39.291666666666664,
+        "vocal_start": 38.564,
+        "vocal_end": 39.205
+      },
+      {
+        "text": "another",
+        "start": 39.291666666666664,
+        "end": 39.833333333333336,
+        "vocal_start": 39.285,
+        "vocal_end": 39.766
+      },
+      {
+        "text": "diff",
+        "start": 39.833333333333336,
+        "end": 40.333333333333336,
+        "vocal_start": 39.826,
+        "vocal_end": 40.227
+      }
+    ]
+  },
+  {
+    "start": 40.541666666666664,
+    "end": 42.833333333333336,
+    "section": "VERSE I",
+    "text": "Another reason you're losing your shit",
+    "idx": 5,
+    "words": [
+      {
+        "text": "Another",
+        "start": 40.541666666666664,
+        "end": 41.166666666666664,
+        "vocal_start": 40.548,
+        "vocal_end": 41.048
+      },
+      {
+        "text": "reason",
+        "start": 41.166666666666664,
+        "end": 41.625,
+        "vocal_start": 41.149,
+        "vocal_end": 41.569
+      },
+      {
+        "text": "you're",
+        "start": 41.625,
+        "end": 41.791666666666664,
+        "vocal_start": 41.629,
+        "vocal_end": 41.79
+      },
+      {
+        "text": "losing",
+        "start": 41.791666666666664,
+        "end": 42.25,
+        "vocal_start": 41.81,
+        "vocal_end": 42.23
+      },
+      {
+        "text": "your",
+        "start": 42.25,
+        "end": 42.416666666666664,
+        "vocal_start": 42.27,
+        "vocal_end": 42.371
+      },
+      {
+        "text": "shit",
+        "start": 42.416666666666664,
+        "end": 42.833333333333336,
+        "vocal_start": 42.411,
+        "vocal_end": 42.731
+      }
+    ]
+  },
+  {
+    "start": 42.875,
+    "end": 45.416666666666664,
+    "section": "VERSE I",
+    "text": "You wanted simple, you wanted clean",
+    "idx": 6,
+    "words": [
+      {
+        "text": "You",
+        "start": 42.875,
+        "end": 43.208333333333336,
+        "vocal_start": 42.891,
+        "vocal_end": 42.992
+      },
+      {
+        "text": "wanted",
+        "start": 43.208333333333336,
+        "end": 43.708333333333336,
+        "vocal_start": 43.212,
+        "vocal_end": 43.633
+      },
+      {
+        "text": "simple,",
+        "start": 43.708333333333336,
+        "end": 44.375,
+        "vocal_start": 43.693,
+        "vocal_end": 44.294
+      },
+      {
+        "text": "you",
+        "start": 44.375,
+        "end": 44.458333333333336,
+        "vocal_start": 44.374,
+        "vocal_end": 44.434
+      },
+      {
+        "text": "wanted",
+        "start": 44.458333333333336,
+        "end": 44.916666666666664,
+        "vocal_start": 44.474,
+        "vocal_end": 44.875
+      },
+      {
+        "text": "clean",
+        "start": 44.916666666666664,
+        "end": 45.416666666666664,
+        "vocal_start": 44.935,
+        "vocal_end": 45.295
+      }
+    ]
+  },
+  {
+    "start": 45.416666666666664,
+    "end": 48.041666666666664,
+    "section": "VERSE I",
+    "text": "But never told me what simple means",
+    "idx": 7,
+    "words": [
+      {
+        "text": "But",
+        "start": 45.416666666666664,
+        "end": 45.791666666666664,
+        "vocal_start": 45.421,
+        "vocal_end": 45.696
+      },
+      {
+        "text": "never",
+        "start": 45.791666666666664,
+        "end": 46.208333333333336,
+        "vocal_start": 45.776,
+        "vocal_end": 46.037
+      },
+      {
+        "text": "told",
+        "start": 46.208333333333336,
+        "end": 46.541666666666664,
+        "vocal_start": 46.217,
+        "vocal_end": 46.538
+      },
+      {
+        "text": "me",
+        "start": 46.541666666666664,
+        "end": 46.75,
+        "vocal_start": 46.558,
+        "vocal_end": 46.638
+      },
+      {
+        "text": "what",
+        "start": 46.75,
+        "end": 47.0,
+        "vocal_start": 46.738,
+        "vocal_end": 46.898
+      },
+      {
+        "text": "simple",
+        "start": 47.0,
+        "end": 47.5,
+        "vocal_start": 47.018,
+        "vocal_end": 47.419
+      },
+      {
+        "text": "means",
+        "start": 47.5,
+        "end": 48.041666666666664,
+        "vocal_start": 47.499,
+        "vocal_end": 47.92
+      }
+    ]
+  },
+  {
+    "start": 48.083333333333336,
+    "end": 50.583333333333336,
+    "section": "VERSE I",
+    "text": "I traced the changes, line by line",
+    "idx": 8,
+    "words": [
+      {
+        "text": "I",
+        "start": 48.083333333333336,
+        "end": 48.25,
+        "vocal_start": 48.101,
+        "vocal_end": 48.121
+      },
+      {
+        "text": "traced",
+        "start": 48.25,
+        "end": 48.583333333333336,
+        "vocal_start": 48.262,
+        "vocal_end": 48.562
+      },
+      {
+        "text": "the",
+        "start": 48.583333333333336,
+        "end": 48.791666666666664,
+        "vocal_start": 48.602,
+        "vocal_end": 48.682
+      },
+      {
+        "text": "changes,",
+        "start": 48.791666666666664,
+        "end": 49.416666666666664,
+        "vocal_start": 48.782,
+        "vocal_end": 49.323
+      },
+      {
+        "text": "line",
+        "start": 49.416666666666664,
+        "end": 49.708333333333336,
+        "vocal_start": 49.403,
+        "vocal_end": 49.664
+      },
+      {
+        "text": "by",
+        "start": 49.708333333333336,
+        "end": 50.041666666666664,
+        "vocal_start": 49.724,
+        "vocal_end": 49.904
+      },
+      {
+        "text": "line",
+        "start": 50.041666666666664,
+        "end": 50.583333333333336,
+        "vocal_start": 50.044,
+        "vocal_end": 50.445
+      }
+    ]
+  },
+  {
+    "start": 50.666666666666664,
+    "end": 53.166666666666664,
+    "section": "VERSE I",
+    "text": "Preserved the logic, bought us time",
+    "idx": 9,
+    "words": [
+      {
+        "text": "Preserved",
+        "start": 50.666666666666664,
+        "end": 51.166666666666664,
+        "vocal_start": 50.685,
+        "vocal_end": 51.106
+      },
+      {
+        "text": "the",
+        "start": 51.166666666666664,
+        "end": 51.333333333333336,
+        "vocal_start": 51.166,
+        "vocal_end": 51.246
+      },
+      {
+        "text": "logic,",
+        "start": 51.333333333333336,
+        "end": 51.958333333333336,
+        "vocal_start": 51.326,
+        "vocal_end": 51.807
+      },
+      {
+        "text": "bought",
+        "start": 51.958333333333336,
+        "end": 52.375,
+        "vocal_start": 51.947,
+        "vocal_end": 52.307
+      },
+      {
+        "text": "us",
+        "start": 52.375,
+        "end": 52.541666666666664,
+        "vocal_start": 52.388,
+        "vocal_end": 52.468
+      },
+      {
+        "text": "time",
+        "start": 52.541666666666664,
+        "end": 53.166666666666664,
+        "vocal_start": 52.548,
+        "vocal_end": 53.028
+      }
+    ]
+  },
+  {
+    "start": 53.208333333333336,
+    "end": 56.291666666666664,
+    "section": "VERSE I",
+    "text": "But there's a filename you don't recognize",
+    "idx": 10,
+    "words": [
+      {
+        "text": "But",
+        "start": 53.208333333333336,
+        "end": 53.375,
+        "vocal_start": 53.229,
+        "vocal_end": 53.329
+      },
+      {
+        "text": "there's",
+        "start": 53.375,
+        "end": 53.666666666666664,
+        "vocal_start": 53.369,
+        "vocal_end": 53.549
+      },
+      {
+        "text": "a",
+        "start": 53.666666666666664,
+        "end": 53.833333333333336,
+        "vocal_start": 53.649,
+        "vocal_end": 53.669
+      },
+      {
+        "text": "filename",
+        "start": 53.833333333333336,
+        "end": 54.5,
+        "vocal_start": 53.83,
+        "vocal_end": 54.43
+      },
+      {
+        "text": "you",
+        "start": 54.5,
+        "end": 54.666666666666664,
+        "vocal_start": 54.491,
+        "vocal_end": 54.551
+      },
+      {
+        "text": "don't",
+        "start": 54.666666666666664,
+        "end": 54.958333333333336,
+        "vocal_start": 54.651,
+        "vocal_end": 54.851
+      },
+      {
+        "text": "recognize",
+        "start": 55.166666666666664,
+        "end": 56.291666666666664,
+        "vocal_start": 55.172,
+        "vocal_end": 56.173
+      }
+    ]
+  },
+  {
+    "start": 56.333333333333336,
+    "end": 60,
+    "section": "VERSE I",
+    "text": "And suddenly I'm fighting for my life",
+    "idx": 11,
+    "words": [
+      {
+        "text": "And",
+        "start": 56.333333333333336,
+        "end": 56.5,
+        "vocal_start": 56.313,
+        "vocal_end": 56.393
+      },
+      {
+        "text": "suddenly",
+        "start": 56.5,
+        "end": 57.333333333333336,
+        "vocal_start": 56.513,
+        "vocal_end": 57.194
+      },
+      {
+        "text": "I'm",
+        "start": 57.458333333333336,
+        "end": 57.666666666666664,
+        "vocal_start": 57.455,
+        "vocal_end": 57.535
+      },
+      {
+        "text": "fighting",
+        "start": 57.666666666666664,
+        "end": 58.291666666666664,
+        "vocal_start": 57.655,
+        "vocal_end": 58.156
+      },
+      {
+        "text": "for",
+        "start": 58.291666666666664,
+        "end": 58.625,
+        "vocal_start": 58.296,
+        "vocal_end": 58.476
+      },
+      {
+        "text": "my",
+        "start": 58.625,
+        "end": 58.916666666666664,
+        "vocal_start": 58.637,
+        "vocal_end": 58.777
+      },
+      {
+        "text": "life",
+        "start": 58.916666666666664,
+        "end": 60,
+        "vocal_start": 58.937,
+        "vocal_end": 60.96
+      }
+    ]
+  }
+]
