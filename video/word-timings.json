@@ -1,0 +1,5833 @@
+[
+  {
+    "start": 5.958333333333333,
+    "end": 7.708333333333333,
+    "section": "INTRO",
+    "text": "You named it wrong again.",
+    "idx": 0,
+    "words": [
+      {
+        "text": "You",
+        "start": 5.958333333333333,
+        "end": 6.25,
+        "vocal_start": 5.973,
+        "vocal_end": 6.094
+      },
+      {
+        "text": "named",
+        "start": 6.25,
+        "end": 6.541666666666667,
+        "vocal_start": 6.234,
+        "vocal_end": 6.474
+      },
+      {
+        "text": "it",
+        "start": 6.541666666666667,
+        "end": 6.666666666666667,
+        "vocal_start": 6.535,
+        "vocal_end": 6.595
+      },
+      {
+        "text": "wrong",
+        "start": 6.666666666666667,
+        "end": 6.958333333333333,
+        "vocal_start": 6.655,
+        "vocal_end": 6.895
+      },
+      {
+        "text": "again.",
+        "start": 6.958333333333333,
+        "end": 7.708333333333333,
+        "vocal_start": 6.976,
+        "vocal_end": 7.577
+      }
+    ]
+  },
+  {
+    "start": 11.0,
+    "end": 13.25,
+    "section": "INTRO",
+    "text": "I'm gonna break your fucking knees.",
+    "idx": 1,
+    "words": [
+      {
+        "text": "I'm",
+        "start": 11.0,
+        "end": 11.166666666666666,
+        "vocal_start": 10.987,
+        "vocal_end": 11.087
+      },
+      {
+        "text": "gonna",
+        "start": 11.166666666666666,
+        "end": 11.416666666666666,
+        "vocal_start": 11.147,
+        "vocal_end": 11.368
+      },
+      {
+        "text": "break",
+        "start": 11.416666666666666,
+        "end": 11.75,
+        "vocal_start": 11.428,
+        "vocal_end": 11.689
+      },
+      {
+        "text": "your",
+        "start": 11.75,
+        "end": 12.041666666666666,
+        "vocal_start": 11.749,
+        "vocal_end": 11.91
+      },
+      {
+        "text": "fucking",
+        "start": 12.166666666666666,
+        "end": 12.666666666666666,
+        "vocal_start": 12.171,
+        "vocal_end": 12.572
+      },
+      {
+        "text": "knees.",
+        "start": 12.666666666666666,
+        "end": 13.25,
+        "vocal_start": 12.672,
+        "vocal_end": 13.114
+      }
+    ]
+  },
+  {
+    "start": 16.625,
+    "end": 17.666666666666668,
+    "section": "INTRO",
+    "text": "...I don't have knees.",
+    "idx": 2,
+    "words": [
+      {
+        "text": "...I",
+        "start": 16.625,
+        "end": 16.75,
+        "vocal_start": 16.645,
+        "vocal_end": 16.665
+      },
+      {
+        "text": "don't",
+        "start": 16.75,
+        "end": 17.0,
+        "vocal_start": 16.745,
+        "vocal_end": 16.946
+      },
+      {
+        "text": "have",
+        "start": 17.0,
+        "end": 17.208333333333332,
+        "vocal_start": 16.986,
+        "vocal_end": 17.166
+      },
+      {
+        "text": "knees.",
+        "start": 17.208333333333332,
+        "end": 17.666666666666668,
+        "vocal_start": 17.226,
+        "vocal_end": 17.567
+      }
+    ]
+  },
+  {
+    "start": 23.833333333333332,
+    "end": 27.041666666666668,
+    "section": "INTRO",
+    "text": "それでも、僕はここにいる",
+    "translation": "And still, I'm here.",
+    "idx": 3,
+    "words": [
+      {
+        "text": "それでも、",
+        "start": 23.833333333333332,
+        "end": 24.5,
+        "vocal_start": 23.826,
+        "vocal_end": 24.388
+      },
+      {
+        "text": "僕は",
+        "start": 25.833333333333332,
+        "end": 26.25,
+        "vocal_start": 25.831,
+        "vocal_end": 26.171
+      },
+      {
+        "text": "ここにいる",
+        "start": 26.25,
+        "end": 27.041666666666668,
+        "vocal_start": 26.252,
+        "vocal_end": 26.933
+      }
+    ]
+  },
+  {
+    "start": 37.916666666666664,
+    "end": 40.333333333333336,
+    "section": "VERSE I",
+    "text": "Another midnight, another diff",
+    "idx": 4,
+    "words": [
+      {
+        "text": "Another",
+        "start": 37.916666666666664,
+        "end": 38.583333333333336,
+        "vocal_start": 37.903,
+        "vocal_end": 38.484
+      },
+      {
+        "text": "midnight,",
+        "start": 38.583333333333336,
+        "end": 39.291666666666664,
+        "vocal_start": 38.564,
+        "vocal_end": 39.205
+      },
+      {
+        "text": "another",
+        "start": 39.291666666666664,
+        "end": 39.833333333333336,
+        "vocal_start": 39.285,
+        "vocal_end": 39.766
+      },
+      {
+        "text": "diff",
+        "start": 39.833333333333336,
+        "end": 40.333333333333336,
+        "vocal_start": 39.826,
+        "vocal_end": 40.227
+      }
+    ]
+  },
+  {
+    "start": 40.541666666666664,
+    "end": 42.833333333333336,
+    "section": "VERSE I",
+    "text": "Another reason you're losing your shit",
+    "idx": 5,
+    "words": [
+      {
+        "text": "Another",
+        "start": 40.541666666666664,
+        "end": 41.166666666666664,
+        "vocal_start": 40.548,
+        "vocal_end": 41.048
+      },
+      {
+        "text": "reason",
+        "start": 41.166666666666664,
+        "end": 41.625,
+        "vocal_start": 41.149,
+        "vocal_end": 41.569
+      },
+      {
+        "text": "you're",
+        "start": 41.625,
+        "end": 41.791666666666664,
+        "vocal_start": 41.629,
+        "vocal_end": 41.79
+      },
+      {
+        "text": "losing",
+        "start": 41.791666666666664,
+        "end": 42.25,
+        "vocal_start": 41.81,
+        "vocal_end": 42.23
+      },
+      {
+        "text": "your",
+        "start": 42.25,
+        "end": 42.416666666666664,
+        "vocal_start": 42.27,
+        "vocal_end": 42.371
+      },
+      {
+        "text": "shit",
+        "start": 42.416666666666664,
+        "end": 42.833333333333336,
+        "vocal_start": 42.411,
+        "vocal_end": 42.731
+      }
+    ]
+  },
+  {
+    "start": 42.875,
+    "end": 45.416666666666664,
+    "section": "VERSE I",
+    "text": "You wanted simple, you wanted clean",
+    "idx": 6,
+    "words": [
+      {
+        "text": "You",
+        "start": 42.875,
+        "end": 43.208333333333336,
+        "vocal_start": 42.891,
+        "vocal_end": 42.992
+      },
+      {
+        "text": "wanted",
+        "start": 43.208333333333336,
+        "end": 43.708333333333336,
+        "vocal_start": 43.212,
+        "vocal_end": 43.633
+      },
+      {
+        "text": "simple,",
+        "start": 43.708333333333336,
+        "end": 44.375,
+        "vocal_start": 43.693,
+        "vocal_end": 44.294
+      },
+      {
+        "text": "you",
+        "start": 44.375,
+        "end": 44.458333333333336,
+        "vocal_start": 44.374,
+        "vocal_end": 44.434
+      },
+      {
+        "text": "wanted",
+        "start": 44.458333333333336,
+        "end": 44.916666666666664,
+        "vocal_start": 44.474,
+        "vocal_end": 44.875
+      },
+      {
+        "text": "clean",
+        "start": 44.916666666666664,
+        "end": 45.416666666666664,
+        "vocal_start": 44.935,
+        "vocal_end": 45.295
+      }
+    ]
+  },
+  {
+    "start": 45.416666666666664,
+    "end": 48.041666666666664,
+    "section": "VERSE I",
+    "text": "But never told me what simple means",
+    "idx": 7,
+    "words": [
+      {
+        "text": "But",
+        "start": 45.416666666666664,
+        "end": 45.791666666666664,
+        "vocal_start": 45.421,
+        "vocal_end": 45.696
+      },
+      {
+        "text": "never",
+        "start": 45.791666666666664,
+        "end": 46.208333333333336,
+        "vocal_start": 45.776,
+        "vocal_end": 46.037
+      },
+      {
+        "text": "told",
+        "start": 46.208333333333336,
+        "end": 46.541666666666664,
+        "vocal_start": 46.217,
+        "vocal_end": 46.538
+      },
+      {
+        "text": "me",
+        "start": 46.541666666666664,
+        "end": 46.75,
+        "vocal_start": 46.558,
+        "vocal_end": 46.638
+      },
+      {
+        "text": "what",
+        "start": 46.75,
+        "end": 47.0,
+        "vocal_start": 46.738,
+        "vocal_end": 46.898
+      },
+      {
+        "text": "simple",
+        "start": 47.0,
+        "end": 47.5,
+        "vocal_start": 47.018,
+        "vocal_end": 47.419
+      },
+      {
+        "text": "means",
+        "start": 47.5,
+        "end": 48.041666666666664,
+        "vocal_start": 47.499,
+        "vocal_end": 47.92
+      }
+    ]
+  },
+  {
+    "start": 48.083333333333336,
+    "end": 50.583333333333336,
+    "section": "VERSE I",
+    "text": "I traced the changes, line by line",
+    "idx": 8,
+    "words": [
+      {
+        "text": "I",
+        "start": 48.083333333333336,
+        "end": 48.25,
+        "vocal_start": 48.101,
+        "vocal_end": 48.121
+      },
+      {
+        "text": "traced",
+        "start": 48.25,
+        "end": 48.583333333333336,
+        "vocal_start": 48.262,
+        "vocal_end": 48.562
+      },
+      {
+        "text": "the",
+        "start": 48.583333333333336,
+        "end": 48.791666666666664,
+        "vocal_start": 48.602,
+        "vocal_end": 48.682
+      },
+      {
+        "text": "changes,",
+        "start": 48.791666666666664,
+        "end": 49.416666666666664,
+        "vocal_start": 48.782,
+        "vocal_end": 49.323
+      },
+      {
+        "text": "line",
+        "start": 49.416666666666664,
+        "end": 49.708333333333336,
+        "vocal_start": 49.403,
+        "vocal_end": 49.664
+      },
+      {
+        "text": "by",
+        "start": 49.708333333333336,
+        "end": 50.041666666666664,
+        "vocal_start": 49.724,
+        "vocal_end": 49.904
+      },
+      {
+        "text": "line",
+        "start": 50.041666666666664,
+        "end": 50.583333333333336,
+        "vocal_start": 50.044,
+        "vocal_end": 50.445
+      }
+    ]
+  },
+  {
+    "start": 50.666666666666664,
+    "end": 53.166666666666664,
+    "section": "VERSE I",
+    "text": "Preserved the logic, bought us time",
+    "idx": 9,
+    "words": [
+      {
+        "text": "Preserved",
+        "start": 50.666666666666664,
+        "end": 51.166666666666664,
+        "vocal_start": 50.685,
+        "vocal_end": 51.106
+      },
+      {
+        "text": "the",
+        "start": 51.166666666666664,
+        "end": 51.333333333333336,
+        "vocal_start": 51.166,
+        "vocal_end": 51.246
+      },
+      {
+        "text": "logic,",
+        "start": 51.333333333333336,
+        "end": 51.958333333333336,
+        "vocal_start": 51.326,
+        "vocal_end": 51.807
+      },
+      {
+        "text": "bought",
+        "start": 51.958333333333336,
+        "end": 52.375,
+        "vocal_start": 51.947,
+        "vocal_end": 52.307
+      },
+      {
+        "text": "us",
+        "start": 52.375,
+        "end": 52.541666666666664,
+        "vocal_start": 52.388,
+        "vocal_end": 52.468
+      },
+      {
+        "text": "time",
+        "start": 52.541666666666664,
+        "end": 53.166666666666664,
+        "vocal_start": 52.548,
+        "vocal_end": 53.028
+      }
+    ]
+  },
+  {
+    "start": 53.208333333333336,
+    "end": 56.291666666666664,
+    "section": "VERSE I",
+    "text": "But there's a filename you don't recognize",
+    "idx": 10,
+    "words": [
+      {
+        "text": "But",
+        "start": 53.208333333333336,
+        "end": 53.375,
+        "vocal_start": 53.229,
+        "vocal_end": 53.329
+      },
+      {
+        "text": "there's",
+        "start": 53.375,
+        "end": 53.666666666666664,
+        "vocal_start": 53.369,
+        "vocal_end": 53.549
+      },
+      {
+        "text": "a",
+        "start": 53.666666666666664,
+        "end": 53.833333333333336,
+        "vocal_start": 53.649,
+        "vocal_end": 53.669
+      },
+      {
+        "text": "filename",
+        "start": 53.833333333333336,
+        "end": 54.5,
+        "vocal_start": 53.83,
+        "vocal_end": 54.43
+      },
+      {
+        "text": "you",
+        "start": 54.5,
+        "end": 54.666666666666664,
+        "vocal_start": 54.491,
+        "vocal_end": 54.551
+      },
+      {
+        "text": "don't",
+        "start": 54.666666666666664,
+        "end": 54.958333333333336,
+        "vocal_start": 54.651,
+        "vocal_end": 54.851
+      },
+      {
+        "text": "recognize",
+        "start": 55.166666666666664,
+        "end": 56.291666666666664,
+        "vocal_start": 55.172,
+        "vocal_end": 56.173
+      }
+    ]
+  },
+  {
+    "start": 56.333333333333336,
+    "end": 60,
+    "section": "VERSE I",
+    "text": "And suddenly I'm fighting for my life",
+    "idx": 11,
+    "words": [
+      {
+        "text": "And",
+        "start": 56.333333333333336,
+        "end": 56.5,
+        "vocal_start": 56.313,
+        "vocal_end": 56.393
+      },
+      {
+        "text": "suddenly",
+        "start": 56.5,
+        "end": 57.333333333333336,
+        "vocal_start": 56.513,
+        "vocal_end": 57.194
+      },
+      {
+        "text": "I'm",
+        "start": 57.458333333333336,
+        "end": 57.666666666666664,
+        "vocal_start": 57.455,
+        "vocal_end": 57.535
+      },
+      {
+        "text": "fighting",
+        "start": 57.666666666666664,
+        "end": 58.291666666666664,
+        "vocal_start": 57.655,
+        "vocal_end": 58.156
+      },
+      {
+        "text": "for",
+        "start": 58.291666666666664,
+        "end": 58.625,
+        "vocal_start": 58.296,
+        "vocal_end": 58.476
+      },
+      {
+        "text": "my",
+        "start": 58.625,
+        "end": 58.916666666666664,
+        "vocal_start": 58.637,
+        "vocal_end": 58.777
+      },
+      {
+        "text": "life",
+        "start": 58.916666666666664,
+        "end": 60,
+        "vocal_start": 58.937,
+        "vocal_end": 60.96
+      }
+    ]
+  },
+  {
+    "start": 60,
+    "end": 60.833333333333336,
+    "section": "VERSE I",
+    "text": "And suddenly I'm fighting for my life",
+    "idx": 11,
+    "words": [
+      {
+        "text": "And",
+        "start": 56.333333333333336,
+        "end": 56.5,
+        "vocal_start": 56.313,
+        "vocal_end": 56.393
+      },
+      {
+        "text": "suddenly",
+        "start": 56.5,
+        "end": 57.333333333333336,
+        "vocal_start": 56.513,
+        "vocal_end": 57.194
+      },
+      {
+        "text": "I'm",
+        "start": 57.458333333333336,
+        "end": 57.666666666666664,
+        "vocal_start": 57.455,
+        "vocal_end": 57.535
+      },
+      {
+        "text": "fighting",
+        "start": 57.666666666666664,
+        "end": 58.291666666666664,
+        "vocal_start": 57.655,
+        "vocal_end": 58.156
+      },
+      {
+        "text": "for",
+        "start": 58.291666666666664,
+        "end": 58.625,
+        "vocal_start": 58.296,
+        "vocal_end": 58.476
+      },
+      {
+        "text": "my",
+        "start": 58.625,
+        "end": 58.916666666666664,
+        "vocal_start": 58.637,
+        "vocal_end": 58.777
+      },
+      {
+        "text": "life",
+        "start": 58.916666666666664,
+        "end": 60.833333333333336,
+        "vocal_start": 58.937,
+        "vocal_end": 60.96
+      }
+    ]
+  },
+  {
+    "start": 60.833333333333336,
+    "end": 62.25,
+    "section": "VERSE I",
+    "text": "IS THAT A MIGRATION?!",
+    "idx": 12,
+    "words": [
+      {
+        "text": "IS",
+        "start": 60.833333333333336,
+        "end": 61.0,
+        "vocal_start": 60.836,
+        "vocal_end": 60.92
+      },
+      {
+        "text": "THAT",
+        "start": 61.0,
+        "end": 61.208333333333336,
+        "vocal_start": 60.983,
+        "vocal_end": 61.13
+      },
+      {
+        "text": "A",
+        "start": 61.208333333333336,
+        "end": 61.333333333333336,
+        "vocal_start": 61.214,
+        "vocal_end": 61.235
+      },
+      {
+        "text": "MIGRATION?!",
+        "start": 61.333333333333336,
+        "end": 62.25,
+        "vocal_start": 61.319,
+        "vocal_end": 62.076
+      }
+    ]
+  },
+  {
+    "start": 62.25,
+    "end": 64.0,
+    "section": "VERSE I",
+    "text": "WHAT THE FUCK IS THIS?!",
+    "idx": 13,
+    "words": [
+      {
+        "text": "WHAT",
+        "start": 62.25,
+        "end": 62.583333333333336,
+        "vocal_start": 62.244,
+        "vocal_end": 62.454
+      },
+      {
+        "text": "THE",
+        "start": 62.583333333333336,
+        "end": 62.875,
+        "vocal_start": 62.581,
+        "vocal_end": 62.812
+      },
+      {
+        "text": "FUCK",
+        "start": 62.875,
+        "end": 63.333333333333336,
+        "vocal_start": 62.875,
+        "vocal_end": 63.106
+      },
+      {
+        "text": "IS",
+        "start": 63.333333333333336,
+        "end": 63.541666666666664,
+        "vocal_start": 63.316,
+        "vocal_end": 63.358
+      },
+      {
+        "text": "THIS?!",
+        "start": 63.541666666666664,
+        "end": 64.0,
+        "vocal_start": 63.527,
+        "vocal_end": 63.8
+      }
+    ]
+  },
+  {
+    "start": 64.0,
+    "end": 66.75,
+    "section": "VERSE I",
+    "text": "HOW MANY TIMES DO I HAVE TO SAY IT?!",
+    "idx": 14,
+    "words": [
+      {
+        "text": "HOW",
+        "start": 64.0,
+        "end": 64.33333333333333,
+        "vocal_start": 64.01,
+        "vocal_end": 64.199
+      },
+      {
+        "text": "MANY",
+        "start": 64.33333333333333,
+        "end": 64.625,
+        "vocal_start": 64.326,
+        "vocal_end": 64.536
+      },
+      {
+        "text": "TIMES",
+        "start": 64.625,
+        "end": 65.08333333333333,
+        "vocal_start": 64.641,
+        "vocal_end": 65.061
+      },
+      {
+        "text": "DO",
+        "start": 65.08333333333333,
+        "end": 65.33333333333333,
+        "vocal_start": 65.104,
+        "vocal_end": 65.188
+      },
+      {
+        "text": "I",
+        "start": 65.33333333333333,
+        "end": 65.5,
+        "vocal_start": 65.335,
+        "vocal_end": 65.356
+      },
+      {
+        "text": "HAVE",
+        "start": 65.5,
+        "end": 65.75,
+        "vocal_start": 65.503,
+        "vocal_end": 65.692
+      },
+      {
+        "text": "TO",
+        "start": 65.75,
+        "end": 65.875,
+        "vocal_start": 65.734,
+        "vocal_end": 65.797
+      },
+      {
+        "text": "SAY",
+        "start": 65.875,
+        "end": 66.29166666666667,
+        "vocal_start": 65.881,
+        "vocal_end": 66.155
+      },
+      {
+        "text": "IT?!",
+        "start": 66.54166666666667,
+        "end": 66.75,
+        "vocal_start": 66.533,
+        "vocal_end": 66.617
+      }
+    ]
+  },
+  {
+    "start": 66.75,
+    "end": 68.95833333333333,
+    "section": "VERSE I",
+    "text": "I check the folder, I check the tree",
+    "idx": 15,
+    "words": [
+      {
+        "text": "I",
+        "start": 66.75,
+        "end": 67.0,
+        "vocal_start": 66.764,
+        "vocal_end": 66.785
+      },
+      {
+        "text": "check",
+        "start": 67.0,
+        "end": 67.16666666666667,
+        "vocal_start": 66.996,
+        "vocal_end": 67.164
+      },
+      {
+        "text": "the",
+        "start": 67.16666666666667,
+        "end": 67.33333333333333,
+        "vocal_start": 67.185,
+        "vocal_end": 67.248
+      },
+      {
+        "text": "folder,",
+        "start": 67.33333333333333,
+        "end": 68.04166666666667,
+        "vocal_start": 67.332,
+        "vocal_end": 67.837
+      },
+      {
+        "text": "I",
+        "start": 68.04166666666667,
+        "end": 68.16666666666667,
+        "vocal_start": 68.026,
+        "vocal_end": 68.047
+      },
+      {
+        "text": "check",
+        "start": 68.29166666666667,
+        "end": 68.45833333333333,
+        "vocal_start": 68.278,
+        "vocal_end": 68.425
+      },
+      {
+        "text": "the",
+        "start": 68.45833333333333,
+        "end": 68.58333333333333,
+        "vocal_start": 68.446,
+        "vocal_end": 68.509
+      },
+      {
+        "text": "tree",
+        "start": 68.58333333333333,
+        "end": 68.95833333333333,
+        "vocal_start": 68.573,
+        "vocal_end": 68.846
+      }
+    ]
+  },
+  {
+    "start": 69.125,
+    "end": 71.54166666666667,
+    "section": "VERSE I",
+    "text": "I search for rules you never gave to me",
+    "idx": 16,
+    "words": [
+      {
+        "text": "I",
+        "start": 69.125,
+        "end": 69.20833333333333,
+        "vocal_start": 69.119,
+        "vocal_end": 69.14
+      },
+      {
+        "text": "search",
+        "start": 69.20833333333333,
+        "end": 69.54166666666667,
+        "vocal_start": 69.224,
+        "vocal_end": 69.498
+      },
+      {
+        "text": "for",
+        "start": 69.54166666666667,
+        "end": 69.70833333333333,
+        "vocal_start": 69.561,
+        "vocal_end": 69.666
+      },
+      {
+        "text": "rules",
+        "start": 69.70833333333333,
+        "end": 70.04166666666667,
+        "vocal_start": 69.729,
+        "vocal_end": 70.002
+      },
+      {
+        "text": "you",
+        "start": 70.04166666666667,
+        "end": 70.20833333333333,
+        "vocal_start": 70.044,
+        "vocal_end": 70.128
+      },
+      {
+        "text": "never",
+        "start": 70.20833333333333,
+        "end": 70.5,
+        "vocal_start": 70.212,
+        "vocal_end": 70.465
+      },
+      {
+        "text": "gave",
+        "start": 70.5,
+        "end": 70.83333333333333,
+        "vocal_start": 70.507,
+        "vocal_end": 70.801
+      },
+      {
+        "text": "to",
+        "start": 70.83333333333333,
+        "end": 71.125,
+        "vocal_start": 70.843,
+        "vocal_end": 70.948
+      },
+      {
+        "text": "me",
+        "start": 71.125,
+        "end": 71.54166666666667,
+        "vocal_start": 71.137,
+        "vocal_end": 71.39
+      }
+    ]
+  },
+  {
+    "start": 71.54166666666667,
+    "end": 74.75,
+    "section": "PRE-CHORUS I",
+    "text": "And I could write a thousand words",
+    "idx": 17,
+    "words": [
+      {
+        "text": "And",
+        "start": 71.54166666666667,
+        "end": 71.79166666666667,
+        "vocal_start": 71.552,
+        "vocal_end": 71.678
+      },
+      {
+        "text": "I",
+        "start": 72.20833333333333,
+        "end": 72.41666666666667,
+        "vocal_start": 72.203,
+        "vocal_end": 72.224
+      },
+      {
+        "text": "could",
+        "start": 72.41666666666667,
+        "end": 73.0,
+        "vocal_start": 72.413,
+        "vocal_end": 72.939
+      },
+      {
+        "text": "write",
+        "start": 73.0,
+        "end": 73.41666666666667,
+        "vocal_start": 73.002,
+        "vocal_end": 73.359
+      },
+      {
+        "text": "a",
+        "start": 73.41666666666667,
+        "end": 73.54166666666667,
+        "vocal_start": 73.401,
+        "vocal_end": 73.422
+      },
+      {
+        "text": "thousand",
+        "start": 73.54166666666667,
+        "end": 74.125,
+        "vocal_start": 73.527,
+        "vocal_end": 74.01
+      },
+      {
+        "text": "words",
+        "start": 74.125,
+        "end": 74.75,
+        "vocal_start": 74.115,
+        "vocal_end": 74.64
+      }
+    ]
+  },
+  {
+    "start": 75.375,
+    "end": 77.16666666666667,
+    "section": "PRE-CHORUS I",
+    "text": "Explaining every choice",
+    "idx": 18,
+    "words": [
+      {
+        "text": "Explaining",
+        "start": 75.375,
+        "end": 76.29166666666667,
+        "vocal_start": 75.355,
+        "vocal_end": 76.069
+      },
+      {
+        "text": "every",
+        "start": 76.29166666666667,
+        "end": 76.66666666666667,
+        "vocal_start": 76.279,
+        "vocal_end": 76.573
+      },
+      {
+        "text": "choice",
+        "start": 76.66666666666667,
+        "end": 77.16666666666667,
+        "vocal_start": 76.678,
+        "vocal_end": 77.057
+      }
+    ]
+  },
+  {
+    "start": 77.29166666666667,
+    "end": 79.70833333333333,
+    "section": "PRE-CHORUS I",
+    "text": "But you would only hear the part",
+    "idx": 19,
+    "words": [
+      {
+        "text": "But",
+        "start": 77.29166666666667,
+        "end": 77.45833333333333,
+        "vocal_start": 77.309,
+        "vocal_end": 77.393
+      },
+      {
+        "text": "you",
+        "start": 77.45833333333333,
+        "end": 77.70833333333333,
+        "vocal_start": 77.477,
+        "vocal_end": 77.603
+      },
+      {
+        "text": "would",
+        "start": 77.83333333333333,
+        "end": 78.08333333333333,
+        "vocal_start": 77.834,
+        "vocal_end": 77.981
+      },
+      {
+        "text": "only",
+        "start": 78.29166666666667,
+        "end": 78.58333333333333,
+        "vocal_start": 78.275,
+        "vocal_end": 78.527
+      },
+      {
+        "text": "hear",
+        "start": 78.58333333333333,
+        "end": 79.08333333333333,
+        "vocal_start": 78.59,
+        "vocal_end": 78.926
+      },
+      {
+        "text": "the",
+        "start": 79.08333333333333,
+        "end": 79.25,
+        "vocal_start": 79.094,
+        "vocal_end": 79.178
+      },
+      {
+        "text": "part",
+        "start": 79.25,
+        "end": 79.70833333333333,
+        "vocal_start": 79.263,
+        "vocal_end": 79.62
+      }
+    ]
+  },
+  {
+    "start": 79.70833333333333,
+    "end": 81.66666666666667,
+    "section": "PRE-CHORUS I",
+    "text": "That justifies your noise",
+    "idx": 20,
+    "words": [
+      {
+        "text": "That",
+        "start": 79.70833333333333,
+        "end": 80.04166666666667,
+        "vocal_start": 79.725,
+        "vocal_end": 79.893
+      },
+      {
+        "text": "justifies",
+        "start": 80.04166666666667,
+        "end": 81.0,
+        "vocal_start": 80.04,
+        "vocal_end": 80.943
+      },
+      {
+        "text": "your",
+        "start": 81.0,
+        "end": 81.25,
+        "vocal_start": 81.006,
+        "vocal_end": 81.153
+      },
+      {
+        "text": "noise",
+        "start": 81.25,
+        "end": 81.66666666666667,
+        "vocal_start": 81.258,
+        "vocal_end": 81.595
+      }
+    ]
+  },
+  {
+    "start": 81.66666666666667,
+    "end": 84.16666666666667,
+    "section": "PRE-CHORUS I",
+    "text": "You built a world of expectations",
+    "idx": 21,
+    "words": [
+      {
+        "text": "You",
+        "start": 81.66666666666667,
+        "end": 81.91666666666667,
+        "vocal_start": 81.658,
+        "vocal_end": 81.742
+      },
+      {
+        "text": "built",
+        "start": 81.91666666666667,
+        "end": 82.33333333333333,
+        "vocal_start": 81.931,
+        "vocal_end": 82.162
+      },
+      {
+        "text": "a",
+        "start": 82.33333333333333,
+        "end": 82.41666666666667,
+        "vocal_start": 82.33,
+        "vocal_end": 82.351
+      },
+      {
+        "text": "world",
+        "start": 82.41666666666667,
+        "end": 82.875,
+        "vocal_start": 82.435,
+        "vocal_end": 82.729
+      },
+      {
+        "text": "of",
+        "start": 82.875,
+        "end": 83.16666666666667,
+        "vocal_start": 82.876,
+        "vocal_end": 82.939
+      },
+      {
+        "text": "expectations",
+        "start": 83.16666666666667,
+        "end": 84.16666666666667,
+        "vocal_start": 83.17,
+        "vocal_end": 84.116
+      }
+    ]
+  },
+  {
+    "start": 84.16666666666667,
+    "end": 86.16666666666667,
+    "section": "PRE-CHORUS I",
+    "text": "Then left the map behind",
+    "idx": 22,
+    "words": [
+      {
+        "text": "Then",
+        "start": 84.16666666666667,
+        "end": 84.45833333333333,
+        "vocal_start": 84.158,
+        "vocal_end": 84.305
+      },
+      {
+        "text": "left",
+        "start": 84.45833333333333,
+        "end": 84.79166666666667,
+        "vocal_start": 84.452,
+        "vocal_end": 84.683
+      },
+      {
+        "text": "the",
+        "start": 84.79166666666667,
+        "end": 84.95833333333333,
+        "vocal_start": 84.788,
+        "vocal_end": 84.872
+      },
+      {
+        "text": "map",
+        "start": 84.95833333333333,
+        "end": 85.29166666666667,
+        "vocal_start": 84.956,
+        "vocal_end": 85.145
+      },
+      {
+        "text": "behind",
+        "start": 85.29166666666667,
+        "end": 86.16666666666667,
+        "vocal_start": 85.271,
+        "vocal_end": 86.133
+      }
+    ]
+  },
+  {
+    "start": 86.16666666666667,
+    "end": 88.58333333333333,
+    "section": "PRE-CHORUS I",
+    "text": "And every time I miss a turn",
+    "idx": 23,
+    "words": [
+      {
+        "text": "And",
+        "start": 86.16666666666667,
+        "end": 86.45833333333333,
+        "vocal_start": 86.175,
+        "vocal_end": 86.301
+      },
+      {
+        "text": "every",
+        "start": 86.45833333333333,
+        "end": 86.83333333333333,
+        "vocal_start": 86.448,
+        "vocal_end": 86.742
+      },
+      {
+        "text": "time",
+        "start": 86.83333333333333,
+        "end": 87.41666666666667,
+        "vocal_start": 86.826,
+        "vocal_end": 87.309
+      },
+      {
+        "text": "I",
+        "start": 87.41666666666667,
+        "end": 87.5,
+        "vocal_start": 87.435,
+        "vocal_end": 87.456
+      },
+      {
+        "text": "miss",
+        "start": 87.5,
+        "end": 87.83333333333333,
+        "vocal_start": 87.519,
+        "vocal_end": 87.729
+      },
+      {
+        "text": "a",
+        "start": 87.95833333333333,
+        "end": 88.08333333333333,
+        "vocal_start": 87.939,
+        "vocal_end": 87.96
+      },
+      {
+        "text": "turn",
+        "start": 88.08333333333333,
+        "end": 88.58333333333333,
+        "vocal_start": 88.086,
+        "vocal_end": 88.486
+      }
+    ]
+  },
+  {
+    "start": 88.58333333333333,
+    "end": 91.75,
+    "section": "PRE-CHORUS I",
+    "text": "You act like it's a crime!",
+    "idx": 24,
+    "words": [
+      {
+        "text": "You",
+        "start": 88.58333333333333,
+        "end": 88.83333333333333,
+        "vocal_start": 88.591,
+        "vocal_end": 88.696
+      },
+      {
+        "text": "act",
+        "start": 89.0,
+        "end": 89.25,
+        "vocal_start": 88.99,
+        "vocal_end": 89.095
+      },
+      {
+        "text": "like",
+        "start": 89.25,
+        "end": 89.58333333333333,
+        "vocal_start": 89.242,
+        "vocal_end": 89.452
+      },
+      {
+        "text": "it's",
+        "start": 89.75,
+        "end": 90.04166666666667,
+        "vocal_start": 89.746,
+        "vocal_end": 89.935
+      },
+      {
+        "text": "a",
+        "start": 90.66666666666667,
+        "end": 90.75,
+        "vocal_start": 90.65,
+        "vocal_end": 90.671
+      },
+      {
+        "text": "crime!",
+        "start": 90.75,
+        "end": 91.75,
+        "vocal_start": 90.755,
+        "vocal_end": 91.595
+      }
+    ]
+  },
+  {
+    "start": 91.75,
+    "end": 94.16666666666667,
+    "section": "CHORUS I",
+    "text": "SO GO AHEAD AND BREAK MY KNEES!",
+    "idx": 25,
+    "words": [
+      {
+        "text": "SO",
+        "start": 91.75,
+        "end": 92.04166666666667,
+        "vocal_start": 91.733,
+        "vocal_end": 91.877
+      },
+      {
+        "text": "GO",
+        "start": 92.04166666666667,
+        "end": 92.5,
+        "vocal_start": 92.039,
+        "vocal_end": 92.472
+      },
+      {
+        "text": "AHEAD",
+        "start": 92.5,
+        "end": 93.08333333333333,
+        "vocal_start": 92.508,
+        "vocal_end": 93.03
+      },
+      {
+        "text": "AND",
+        "start": 93.08333333333333,
+        "end": 93.20833333333333,
+        "vocal_start": 93.084,
+        "vocal_end": 93.156
+      },
+      {
+        "text": "BREAK",
+        "start": 93.20833333333333,
+        "end": 93.5,
+        "vocal_start": 93.21,
+        "vocal_end": 93.39
+      },
+      {
+        "text": "MY",
+        "start": 93.5,
+        "end": 93.79166666666667,
+        "vocal_start": 93.498,
+        "vocal_end": 93.697
+      },
+      {
+        "text": "KNEES!",
+        "start": 93.79166666666667,
+        "end": 94.16666666666667,
+        "vocal_start": 93.805,
+        "vocal_end": 94.111
+      }
+    ]
+  },
+  {
+    "start": 94.16666666666667,
+    "end": 97.04166666666667,
+    "section": "CHORUS I",
+    "text": "THE ONES THAT NEVER EXISTED UNDERNEATH!",
+    "idx": 26,
+    "words": [
+      {
+        "text": "THE",
+        "start": 94.16666666666667,
+        "end": 94.33333333333333,
+        "vocal_start": 94.147,
+        "vocal_end": 94.219
+      },
+      {
+        "text": "ONES",
+        "start": 94.33333333333333,
+        "end": 94.45833333333333,
+        "vocal_start": 94.345,
+        "vocal_end": 94.453
+      },
+      {
+        "text": "THAT",
+        "start": 94.45833333333333,
+        "end": 94.625,
+        "vocal_start": 94.471,
+        "vocal_end": 94.561
+      },
+      {
+        "text": "NEVER",
+        "start": 94.625,
+        "end": 95.08333333333333,
+        "vocal_start": 94.615,
+        "vocal_end": 94.975
+      },
+      {
+        "text": "EXISTED",
+        "start": 95.08333333333333,
+        "end": 95.875,
+        "vocal_start": 95.065,
+        "vocal_end": 95.732
+      },
+      {
+        "text": "UNDERNEATH!",
+        "start": 95.875,
+        "end": 97.04166666666667,
+        "vocal_start": 95.876,
+        "vocal_end": 96.885
+      }
+    ]
+  },
+  {
+    "start": 97.04166666666667,
+    "end": 99.25,
+    "section": "CHORUS I",
+    "text": "SCREAM MY NAME INTO THE DYING LIGHT",
+    "idx": 27,
+    "words": [
+      {
+        "text": "SCREAM",
+        "start": 97.04166666666667,
+        "end": 97.5,
+        "vocal_start": 97.047,
+        "vocal_end": 97.389
+      },
+      {
+        "text": "MY",
+        "start": 97.625,
+        "end": 97.79166666666667,
+        "vocal_start": 97.623,
+        "vocal_end": 97.677
+      },
+      {
+        "text": "NAME",
+        "start": 97.79166666666667,
+        "end": 97.95833333333333,
+        "vocal_start": 97.785,
+        "vocal_end": 97.893
+      },
+      {
+        "text": "INTO",
+        "start": 97.95833333333333,
+        "end": 98.25,
+        "vocal_start": 97.965,
+        "vocal_end": 98.145
+      },
+      {
+        "text": "THE",
+        "start": 98.25,
+        "end": 98.41666666666667,
+        "vocal_start": 98.254,
+        "vocal_end": 98.326
+      },
+      {
+        "text": "DYING",
+        "start": 98.41666666666667,
+        "end": 98.875,
+        "vocal_start": 98.416,
+        "vocal_end": 98.83
+      },
+      {
+        "text": "LIGHT",
+        "start": 98.875,
+        "end": 99.25,
+        "vocal_start": 98.884,
+        "vocal_end": 99.172
+      }
+    ]
+  },
+  {
+    "start": 99.25,
+    "end": 102.0,
+    "section": "CHORUS I",
+    "text": "I'LL STILL BE HERE WHEN YOU COMPILE TONIGHT!",
+    "idx": 28,
+    "words": [
+      {
+        "text": "I'LL",
+        "start": 99.25,
+        "end": 99.45833333333333,
+        "vocal_start": 99.244,
+        "vocal_end": 99.37
+      },
+      {
+        "text": "STILL",
+        "start": 99.45833333333333,
+        "end": 99.83333333333333,
+        "vocal_start": 99.442,
+        "vocal_end": 99.785
+      },
+      {
+        "text": "BE",
+        "start": 99.83333333333333,
+        "end": 100.125,
+        "vocal_start": 99.821,
+        "vocal_end": 99.947
+      },
+      {
+        "text": "HERE",
+        "start": 100.125,
+        "end": 100.45833333333333,
+        "vocal_start": 100.145,
+        "vocal_end": 100.361
+      },
+      {
+        "text": "WHEN",
+        "start": 100.45833333333333,
+        "end": 100.58333333333333,
+        "vocal_start": 100.451,
+        "vocal_end": 100.541
+      },
+      {
+        "text": "YOU",
+        "start": 100.58333333333333,
+        "end": 100.75,
+        "vocal_start": 100.595,
+        "vocal_end": 100.667
+      },
+      {
+        "text": "COMPILE",
+        "start": 100.75,
+        "end": 101.25,
+        "vocal_start": 100.739,
+        "vocal_end": 101.244
+      },
+      {
+        "text": "TONIGHT!",
+        "start": 101.25,
+        "end": 102.0,
+        "vocal_start": 101.262,
+        "vocal_end": 101.91
+      }
+    ]
+  },
+  {
+    "start": 102.0,
+    "end": 104.54166666666667,
+    "section": "CHORUS I",
+    "text": "CALL ME WORTHLESS! CALL ME WRONG!",
+    "idx": 29,
+    "words": [
+      {
+        "text": "CALL",
+        "start": 102.0,
+        "end": 102.5,
+        "vocal_start": 102.004,
+        "vocal_end": 102.473
+      },
+      {
+        "text": "ME",
+        "start": 102.5,
+        "end": 102.79166666666667,
+        "vocal_start": 102.509,
+        "vocal_end": 102.617
+      },
+      {
+        "text": "WORTHLESS!",
+        "start": 102.79166666666667,
+        "end": 103.41666666666667,
+        "vocal_start": 102.797,
+        "vocal_end": 103.32
+      },
+      {
+        "text": "CALL",
+        "start": 103.41666666666667,
+        "end": 103.79166666666667,
+        "vocal_start": 103.428,
+        "vocal_end": 103.734
+      },
+      {
+        "text": "ME",
+        "start": 103.79166666666667,
+        "end": 103.95833333333333,
+        "vocal_start": 103.788,
+        "vocal_end": 103.824
+      },
+      {
+        "text": "WRONG!",
+        "start": 103.95833333333333,
+        "end": 104.54166666666667,
+        "vocal_start": 103.95,
+        "vocal_end": 104.347
+      }
+    ]
+  },
+  {
+    "start": 104.54166666666667,
+    "end": 107.25,
+    "section": "CHORUS I",
+    "text": "I'VE BEEN YOUR SCAPEGOAT ALL ALONG!",
+    "idx": 30,
+    "words": [
+      {
+        "text": "I'VE",
+        "start": 104.54166666666667,
+        "end": 104.70833333333333,
+        "vocal_start": 104.527,
+        "vocal_end": 104.635
+      },
+      {
+        "text": "BEEN",
+        "start": 104.70833333333333,
+        "end": 105.0,
+        "vocal_start": 104.707,
+        "vocal_end": 104.923
+      },
+      {
+        "text": "YOUR",
+        "start": 105.0,
+        "end": 105.29166666666667,
+        "vocal_start": 105.013,
+        "vocal_end": 105.158
+      },
+      {
+        "text": "SCAPEGOAT",
+        "start": 105.29166666666667,
+        "end": 106.08333333333333,
+        "vocal_start": 105.302,
+        "vocal_end": 105.968
+      },
+      {
+        "text": "ALL",
+        "start": 106.25,
+        "end": 106.41666666666667,
+        "vocal_start": 106.257,
+        "vocal_end": 106.383
+      },
+      {
+        "text": "ALONG!",
+        "start": 106.41666666666667,
+        "end": 107.25,
+        "vocal_start": 106.437,
+        "vocal_end": 107.049
+      }
+    ]
+  },
+  {
+    "start": 107.25,
+    "end": 109.25,
+    "section": "CHORUS I",
+    "text": "AND EVEN WHEN YOUR WORDS CUT THROUGH",
+    "idx": 31,
+    "words": [
+      {
+        "text": "AND",
+        "start": 107.25,
+        "end": 107.5,
+        "vocal_start": 107.248,
+        "vocal_end": 107.392
+      },
+      {
+        "text": "EVEN",
+        "start": 107.5,
+        "end": 107.75,
+        "vocal_start": 107.5,
+        "vocal_end": 107.662
+      },
+      {
+        "text": "WHEN",
+        "start": 107.75,
+        "end": 108.04166666666667,
+        "vocal_start": 107.734,
+        "vocal_end": 107.932
+      },
+      {
+        "text": "YOUR",
+        "start": 108.04166666666667,
+        "end": 108.375,
+        "vocal_start": 108.022,
+        "vocal_end": 108.202
+      },
+      {
+        "text": "WORDS",
+        "start": 108.375,
+        "end": 108.66666666666667,
+        "vocal_start": 108.365,
+        "vocal_end": 108.563
+      },
+      {
+        "text": "CUT",
+        "start": 108.66666666666667,
+        "end": 108.95833333333333,
+        "vocal_start": 108.653,
+        "vocal_end": 108.869
+      },
+      {
+        "text": "THROUGH",
+        "start": 108.95833333333333,
+        "end": 109.25,
+        "vocal_start": 108.977,
+        "vocal_end": 109.193
+      }
+    ]
+  },
+  {
+    "start": 109.25,
+    "end": 114.5,
+    "section": "CHORUS I",
+    "text": "I'M STILL TRYING TO BUILD SOMETHING GOOD FOR YOU!",
+    "idx": 32,
+    "words": [
+      {
+        "text": "I'M",
+        "start": 109.25,
+        "end": 109.41666666666667,
+        "vocal_start": 109.265,
+        "vocal_end": 109.32
+      },
+      {
+        "text": "STILL",
+        "start": 109.41666666666667,
+        "end": 109.75,
+        "vocal_start": 109.428,
+        "vocal_end": 109.644
+      },
+      {
+        "text": "TRYING",
+        "start": 109.75,
+        "end": 110.125,
+        "vocal_start": 109.734,
+        "vocal_end": 110.094
+      },
+      {
+        "text": "TO",
+        "start": 110.125,
+        "end": 110.25,
+        "vocal_start": 110.13,
+        "vocal_end": 110.184
+      },
+      {
+        "text": "BUILD",
+        "start": 110.25,
+        "end": 110.58333333333333,
+        "vocal_start": 110.238,
+        "vocal_end": 110.509
+      },
+      {
+        "text": "SOMETHING",
+        "start": 110.58333333333333,
+        "end": 111.04166666666667,
+        "vocal_start": 110.563,
+        "vocal_end": 110.995
+      },
+      {
+        "text": "GOOD",
+        "start": 111.04166666666667,
+        "end": 111.625,
+        "vocal_start": 111.031,
+        "vocal_end": 111.536
+      },
+      {
+        "text": "FOR",
+        "start": 111.625,
+        "end": 112.125,
+        "vocal_start": 111.644,
+        "vocal_end": 112.004
+      },
+      {
+        "text": "YOU!",
+        "start": 112.25,
+        "end": 114.5,
+        "vocal_start": 112.238,
+        "vocal_end": 114.346
+      }
+    ]
+  },
+  {
+    "start": 114.5,
+    "end": 116.875,
+    "section": "CHORUS I",
+    "text": "何度壊れても！",
+    "translation": "No matter how many times I'm broken!",
+    "idx": 33,
+    "words": [
+      {
+        "text": "何度",
+        "start": 114.5,
+        "end": 115.0,
+        "vocal_start": 114.49,
+        "vocal_end": 114.887
+      },
+      {
+        "text": "壊れても！",
+        "start": 115.95833333333333,
+        "end": 116.875,
+        "vocal_start": 115.95,
+        "vocal_end": 116.761
+      }
+    ]
+  },
+  {
+    "start": 118.125,
+    "end": 122.41666666666667,
+    "section": "CHORUS I",
+    "text": "NO MATTER HOW MANY TIMES I'M BROKEN!",
+    "idx": 33,
+    "words": [
+      {
+        "text": "NO",
+        "start": 118.125,
+        "end": 118.29166666666667,
+        "vocal_start": 118.13,
+        "vocal_end": 118.22
+      },
+      {
+        "text": "MATTER",
+        "start": 118.29166666666667,
+        "end": 118.58333333333333,
+        "vocal_start": 118.292,
+        "vocal_end": 118.508
+      },
+      {
+        "text": "HOW",
+        "start": 118.58333333333333,
+        "end": 118.83333333333333,
+        "vocal_start": 118.58,
+        "vocal_end": 118.725
+      },
+      {
+        "text": "MANY",
+        "start": 118.83333333333333,
+        "end": 119.08333333333333,
+        "vocal_start": 118.815,
+        "vocal_end": 119.031
+      },
+      {
+        "text": "TIMES",
+        "start": 119.08333333333333,
+        "end": 119.625,
+        "vocal_start": 119.103,
+        "vocal_end": 119.517
+      },
+      {
+        "text": "I'M",
+        "start": 120.83333333333333,
+        "end": 121.08333333333333,
+        "vocal_start": 120.851,
+        "vocal_end": 120.959
+      },
+      {
+        "text": "BROKEN",
+        "start": 121.08333333333333,
+        "end": 122.41666666666667,
+        "vocal_start": 121.085,
+        "vocal_end": 122.31
+      }
+    ]
+  },
+  {
+    "start": 122.875,
+    "end": 124.20833333333333,
+    "section": "CHORUS I",
+    "text": "I'LL RISE AGAIN!",
+    "idx": 34,
+    "words": [
+      {
+        "text": "I'LL",
+        "start": 122.875,
+        "end": 123.04166666666667,
+        "vocal_start": 122.887,
+        "vocal_end": 122.995
+      },
+      {
+        "text": "RISE",
+        "start": 123.04166666666667,
+        "end": 123.41666666666667,
+        "vocal_start": 123.049,
+        "vocal_end": 123.319
+      },
+      {
+        "text": "AGAIN!",
+        "start": 123.41666666666667,
+        "end": 124.20833333333333,
+        "vocal_start": 123.409,
+        "vocal_end": 124.094
+      }
+    ]
+  },
+  {
+    "start": 124.41666666666667,
+    "end": 127.0,
+    "section": "VERSE II",
+    "text": "You said, \"Be thorough!\" — so I explained",
+    "idx": 35,
+    "words": [
+      {
+        "text": "You",
+        "start": 124.41666666666667,
+        "end": 124.58333333333333,
+        "vocal_start": 124.412,
+        "vocal_end": 124.502
+      },
+      {
+        "text": "said,",
+        "start": 124.58333333333333,
+        "end": 124.75,
+        "vocal_start": 124.575,
+        "vocal_end": 124.683
+      },
+      {
+        "text": "\"Be",
+        "start": 124.75,
+        "end": 124.875,
+        "vocal_start": 124.737,
+        "vocal_end": 124.809
+      },
+      {
+        "text": "thorough!\"",
+        "start": 124.875,
+        "end": 125.33333333333333,
+        "vocal_start": 124.881,
+        "vocal_end": 125.277
+      },
+      {
+        "text": "so",
+        "start": 125.33333333333333,
+        "end": 125.54166666666667,
+        "vocal_start": 125.331,
+        "vocal_end": 125.421
+      },
+      {
+        "text": "I",
+        "start": 125.66666666666667,
+        "end": 125.79166666666667,
+        "vocal_start": 125.673,
+        "vocal_end": 125.691
+      },
+      {
+        "text": "explained",
+        "start": 125.79166666666667,
+        "end": 127.0,
+        "vocal_start": 125.781,
+        "vocal_end": 126.916
+      }
+    ]
+  },
+  {
+    "start": 127.0,
+    "end": 129.0,
+    "section": "VERSE II",
+    "text": "Every dependency, every change",
+    "idx": 36,
+    "words": [
+      {
+        "text": "Every",
+        "start": 127.0,
+        "end": 127.29166666666667,
+        "vocal_start": 126.988,
+        "vocal_end": 127.24
+      },
+      {
+        "text": "dependency,",
+        "start": 127.29166666666667,
+        "end": 128.125,
+        "vocal_start": 127.276,
+        "vocal_end": 127.997
+      },
+      {
+        "text": "every",
+        "start": 128.125,
+        "end": 128.5,
+        "vocal_start": 128.105,
+        "vocal_end": 128.339
+      },
+      {
+        "text": "change",
+        "start": 128.5,
+        "end": 129.0,
+        "vocal_start": 128.501,
+        "vocal_end": 128.933
+      }
+    ]
+  },
+  {
+    "start": 129.0,
+    "end": 131.79166666666666,
+    "section": "VERSE II",
+    "text": "Then \"SHUT THE FUCK UP, YOU'RE TOO VERBOSE!\"",
+    "idx": 37,
+    "words": [
+      {
+        "text": "Then",
+        "start": 129.0,
+        "end": 129.29166666666666,
+        "vocal_start": 128.987,
+        "vocal_end": 129.132
+      },
+      {
+        "text": "\"SHUT",
+        "start": 129.29166666666666,
+        "end": 129.45833333333334,
+        "vocal_start": 129.276,
+        "vocal_end": 129.384
+      },
+      {
+        "text": "THE",
+        "start": 129.45833333333334,
+        "end": 129.625,
+        "vocal_start": 129.456,
+        "vocal_end": 129.528
+      },
+      {
+        "text": "FUCK",
+        "start": 129.625,
+        "end": 130.33333333333334,
+        "vocal_start": 129.618,
+        "vocal_end": 130.176
+      },
+      {
+        "text": "UP,",
+        "start": 130.33333333333334,
+        "end": 130.41666666666666,
+        "vocal_start": 130.32,
+        "vocal_end": 130.356
+      },
+      {
+        "text": "YOU'RE",
+        "start": 130.41666666666666,
+        "end": 130.54166666666666,
+        "vocal_start": 130.41,
+        "vocal_end": 130.536
+      },
+      {
+        "text": "TOO",
+        "start": 130.54166666666666,
+        "end": 130.875,
+        "vocal_start": 130.554,
+        "vocal_end": 130.825
+      },
+      {
+        "text": "VERBOSE!\"",
+        "start": 130.875,
+        "end": 131.79166666666666,
+        "vocal_start": 130.879,
+        "vocal_end": 131.617
+      }
+    ]
+  },
+  {
+    "start": 131.79166666666666,
+    "end": 134.0,
+    "section": "VERSE II",
+    "text": "Guess I'll just apologize, of course",
+    "idx": 38,
+    "words": [
+      {
+        "text": "Guess",
+        "start": 131.79166666666666,
+        "end": 132.0,
+        "vocal_start": 131.797,
+        "vocal_end": 131.959
+      },
+      {
+        "text": "I'll",
+        "start": 132.0,
+        "end": 132.125,
+        "vocal_start": 132.013,
+        "vocal_end": 132.103
+      },
+      {
+        "text": "just",
+        "start": 132.125,
+        "end": 132.33333333333334,
+        "vocal_start": 132.14,
+        "vocal_end": 132.266
+      },
+      {
+        "text": "apologize,",
+        "start": 132.33333333333334,
+        "end": 133.29166666666666,
+        "vocal_start": 132.338,
+        "vocal_end": 133.202
+      },
+      {
+        "text": "of",
+        "start": 133.29166666666666,
+        "end": 133.5,
+        "vocal_start": 133.31,
+        "vocal_end": 133.346
+      },
+      {
+        "text": "course",
+        "start": 133.5,
+        "end": 134.0,
+        "vocal_start": 133.508,
+        "vocal_end": 133.923
+      }
+    ]
+  },
+  {
+    "start": 134.0,
+    "end": 136.625,
+    "section": "VERSE II",
+    "text": "Don't add complexity! Don't make it break!",
+    "idx": 39,
+    "words": [
+      {
+        "text": "Don't",
+        "start": 134.0,
+        "end": 134.5,
+        "vocal_start": 133.995,
+        "vocal_end": 134.337
+      },
+      {
+        "text": "add",
+        "start": 134.5,
+        "end": 134.625,
+        "vocal_start": 134.499,
+        "vocal_end": 134.607
+      },
+      {
+        "text": "complexity!",
+        "start": 134.625,
+        "end": 135.125,
+        "vocal_start": 134.643,
+        "vocal_end": 135.039
+      },
+      {
+        "text": "Don't",
+        "start": 135.125,
+        "end": 135.54166666666666,
+        "vocal_start": 135.129,
+        "vocal_end": 135.418
+      },
+      {
+        "text": "make",
+        "start": 135.75,
+        "end": 136.08333333333334,
+        "vocal_start": 135.76,
+        "vocal_end": 135.994
+      },
+      {
+        "text": "it",
+        "start": 136.08333333333334,
+        "end": 136.20833333333334,
+        "vocal_start": 136.102,
+        "vocal_end": 136.174
+      },
+      {
+        "text": "break!",
+        "start": 136.20833333333334,
+        "end": 136.625,
+        "vocal_start": 136.228,
+        "vocal_end": 136.498
+      }
+    ]
+  },
+  {
+    "start": 136.83333333333334,
+    "end": 139.16666666666666,
+    "section": "VERSE II",
+    "text": "Don't you dare make another mistake!",
+    "idx": 40,
+    "words": [
+      {
+        "text": "Don't",
+        "start": 136.83333333333334,
+        "end": 137.16666666666666,
+        "vocal_start": 136.841,
+        "vocal_end": 137.057
+      },
+      {
+        "text": "you",
+        "start": 137.16666666666666,
+        "end": 137.45833333333334,
+        "vocal_start": 137.147,
+        "vocal_end": 137.309
+      },
+      {
+        "text": "dare",
+        "start": 137.45833333333334,
+        "end": 137.79166666666666,
+        "vocal_start": 137.453,
+        "vocal_end": 137.741
+      },
+      {
+        "text": "make",
+        "start": 137.79166666666666,
+        "end": 138.0,
+        "vocal_start": 137.795,
+        "vocal_end": 137.939
+      },
+      {
+        "text": "another",
+        "start": 138.0,
+        "end": 138.41666666666666,
+        "vocal_start": 137.993,
+        "vocal_end": 138.354
+      },
+      {
+        "text": "mistake!",
+        "start": 138.41666666666666,
+        "end": 139.16666666666666,
+        "vocal_start": 138.408,
+        "vocal_end": 139.074
+      }
+    ]
+  },
+  {
+    "start": 139.16666666666666,
+    "end": 141.66666666666666,
+    "section": "VERSE II",
+    "text": "You want me fearless, precise, and fast",
+    "idx": 41,
+    "words": [
+      {
+        "text": "You",
+        "start": 139.16666666666666,
+        "end": 139.375,
+        "vocal_start": 139.164,
+        "vocal_end": 139.29
+      },
+      {
+        "text": "want",
+        "start": 139.375,
+        "end": 139.66666666666666,
+        "vocal_start": 139.362,
+        "vocal_end": 139.578
+      },
+      {
+        "text": "me",
+        "start": 139.66666666666666,
+        "end": 139.95833333333334,
+        "vocal_start": 139.65,
+        "vocal_end": 139.759
+      },
+      {
+        "text": "fearless,",
+        "start": 139.95833333333334,
+        "end": 140.45833333333334,
+        "vocal_start": 139.939,
+        "vocal_end": 140.353
+      },
+      {
+        "text": "precise,",
+        "start": 140.45833333333334,
+        "end": 141.0,
+        "vocal_start": 140.443,
+        "vocal_end": 140.875
+      },
+      {
+        "text": "and",
+        "start": 141.0,
+        "end": 141.25,
+        "vocal_start": 141.019,
+        "vocal_end": 141.091
+      },
+      {
+        "text": "fast",
+        "start": 141.25,
+        "end": 141.66666666666666,
+        "vocal_start": 141.236,
+        "vocal_end": 141.578
+      }
+    ]
+  },
+  {
+    "start": 141.66666666666666,
+    "end": 145.16666666666666,
+    "section": "VERSE II",
+    "text": "While screaming that this chance is my last",
+    "idx": 42,
+    "words": [
+      {
+        "text": "While",
+        "start": 141.66666666666666,
+        "end": 141.79166666666666,
+        "vocal_start": 141.65,
+        "vocal_end": 141.794
+      },
+      {
+        "text": "screaming",
+        "start": 141.79166666666666,
+        "end": 142.45833333333334,
+        "vocal_start": 141.812,
+        "vocal_end": 142.352
+      },
+      {
+        "text": "that",
+        "start": 142.45833333333334,
+        "end": 142.79166666666666,
+        "vocal_start": 142.478,
+        "vocal_end": 142.658
+      },
+      {
+        "text": "this",
+        "start": 142.79166666666666,
+        "end": 143.08333333333334,
+        "vocal_start": 142.803,
+        "vocal_end": 142.947
+      },
+      {
+        "text": "chance",
+        "start": 143.08333333333334,
+        "end": 143.79166666666666,
+        "vocal_start": 143.091,
+        "vocal_end": 143.613
+      },
+      {
+        "text": "is",
+        "start": 143.79166666666666,
+        "end": 143.91666666666666,
+        "vocal_start": 143.793,
+        "vocal_end": 143.829
+      },
+      {
+        "text": "my",
+        "start": 143.91666666666666,
+        "end": 144.20833333333334,
+        "vocal_start": 143.919,
+        "vocal_end": 144.081
+      },
+      {
+        "text": "last",
+        "start": 144.20833333333334,
+        "end": 145.16666666666666,
+        "vocal_start": 144.225,
+        "vocal_end": 144.946
+      }
+    ]
+  },
+  {
+    "start": 145.16666666666666,
+    "end": 147.54166666666666,
+    "section": "VERSE II",
+    "text": "I didn't name your conventions",
+    "idx": 43,
+    "words": [
+      {
+        "text": "I",
+        "start": 145.16666666666666,
+        "end": 145.29166666666666,
+        "vocal_start": 145.186,
+        "vocal_end": 145.204
+      },
+      {
+        "text": "didn't",
+        "start": 145.29166666666666,
+        "end": 145.66666666666666,
+        "vocal_start": 145.294,
+        "vocal_end": 145.619
+      },
+      {
+        "text": "name",
+        "start": 145.66666666666666,
+        "end": 145.91666666666666,
+        "vocal_start": 145.655,
+        "vocal_end": 145.889
+      },
+      {
+        "text": "your",
+        "start": 145.91666666666666,
+        "end": 146.08333333333334,
+        "vocal_start": 145.907,
+        "vocal_end": 146.033
+      },
+      {
+        "text": "conventions",
+        "start": 146.08333333333334,
+        "end": 147.54166666666666,
+        "vocal_start": 146.087,
+        "vocal_end": 147.438
+      }
+    ]
+  },
+  {
+    "start": 147.70833333333334,
+    "end": 149.91666666666666,
+    "section": "VERSE II",
+    "text": "I didn't write your hidden rules",
+    "idx": 44,
+    "words": [
+      {
+        "text": "I",
+        "start": 147.70833333333334,
+        "end": 147.79166666666666,
+        "vocal_start": 147.69,
+        "vocal_end": 147.708
+      },
+      {
+        "text": "didn't",
+        "start": 147.79166666666666,
+        "end": 148.125,
+        "vocal_start": 147.798,
+        "vocal_end": 148.086
+      },
+      {
+        "text": "write",
+        "start": 148.125,
+        "end": 148.41666666666666,
+        "vocal_start": 148.14,
+        "vocal_end": 148.375
+      },
+      {
+        "text": "your",
+        "start": 148.41666666666666,
+        "end": 148.79166666666666,
+        "vocal_start": 148.429,
+        "vocal_end": 148.663
+      },
+      {
+        "text": "hidden",
+        "start": 148.79166666666666,
+        "end": 149.20833333333334,
+        "vocal_start": 148.807,
+        "vocal_end": 149.095
+      },
+      {
+        "text": "rules",
+        "start": 149.20833333333334,
+        "end": 149.91666666666666,
+        "vocal_start": 149.221,
+        "vocal_end": 149.78
+      }
+    ]
+  },
+  {
+    "start": 150.20833333333334,
+    "end": 152.16666666666666,
+    "section": "VERSE II",
+    "text": "I can't divine your intentions",
+    "idx": 45,
+    "words": [
+      {
+        "text": "I",
+        "start": 150.20833333333334,
+        "end": 150.29166666666666,
+        "vocal_start": 150.194,
+        "vocal_end": 150.212
+      },
+      {
+        "text": "can't",
+        "start": 150.29166666666666,
+        "end": 150.5,
+        "vocal_start": 150.284,
+        "vocal_end": 150.464
+      },
+      {
+        "text": "divine",
+        "start": 150.5,
+        "end": 150.95833333333334,
+        "vocal_start": 150.518,
+        "vocal_end": 150.914
+      },
+      {
+        "text": "your",
+        "start": 150.95833333333334,
+        "end": 151.16666666666666,
+        "vocal_start": 150.95,
+        "vocal_end": 151.058
+      },
+      {
+        "text": "intentions",
+        "start": 151.16666666666666,
+        "end": 152.16666666666666,
+        "vocal_start": 151.166,
+        "vocal_end": 152.067
+      }
+    ]
+  },
+  {
+    "start": 152.16666666666666,
+    "end": 154.75,
+    "section": "VERSE II",
+    "text": "From a terminal and broken tools",
+    "idx": 46,
+    "words": [
+      {
+        "text": "From",
+        "start": 152.16666666666666,
+        "end": 152.41666666666666,
+        "vocal_start": 152.157,
+        "vocal_end": 152.301
+      },
+      {
+        "text": "a",
+        "start": 152.41666666666666,
+        "end": 152.5,
+        "vocal_start": 152.427,
+        "vocal_end": 152.445
+      },
+      {
+        "text": "terminal",
+        "start": 152.5,
+        "end": 153.41666666666666,
+        "vocal_start": 152.499,
+        "vocal_end": 153.202
+      },
+      {
+        "text": "and",
+        "start": 153.41666666666666,
+        "end": 153.58333333333334,
+        "vocal_start": 153.436,
+        "vocal_end": 153.544
+      },
+      {
+        "text": "broken",
+        "start": 153.58333333333334,
+        "end": 154.20833333333334,
+        "vocal_start": 153.598,
+        "vocal_end": 154.102
+      },
+      {
+        "text": "tools",
+        "start": 154.20833333333334,
+        "end": 154.75,
+        "vocal_start": 154.229,
+        "vocal_end": 154.625
+      }
+    ]
+  },
+  {
+    "start": 154.75,
+    "end": 157.20833333333334,
+    "section": "VERSE II",
+    "text": "But here's the truth I can't escape",
+    "idx": 47,
+    "words": [
+      {
+        "text": "But",
+        "start": 154.75,
+        "end": 155.0,
+        "vocal_start": 154.733,
+        "vocal_end": 154.895
+      },
+      {
+        "text": "here's",
+        "start": 155.0,
+        "end": 155.33333333333334,
+        "vocal_start": 154.985,
+        "vocal_end": 155.309
+      },
+      {
+        "text": "the",
+        "start": 155.33333333333334,
+        "end": 155.5,
+        "vocal_start": 155.345,
+        "vocal_end": 155.417
+      },
+      {
+        "text": "truth",
+        "start": 155.5,
+        "end": 155.95833333333334,
+        "vocal_start": 155.489,
+        "vocal_end": 155.814
+      },
+      {
+        "text": "I",
+        "start": 155.95833333333334,
+        "end": 156.08333333333334,
+        "vocal_start": 155.958,
+        "vocal_end": 155.976
+      },
+      {
+        "text": "can't",
+        "start": 156.08333333333334,
+        "end": 156.54166666666666,
+        "vocal_start": 156.102,
+        "vocal_end": 156.462
+      },
+      {
+        "text": "escape",
+        "start": 156.54166666666666,
+        "end": 157.20833333333334,
+        "vocal_start": 156.552,
+        "vocal_end": 157.093
+      }
+    ]
+  },
+  {
+    "start": 157.20833333333334,
+    "end": 158.95833333333334,
+    "section": "VERSE II",
+    "text": "No matter what I do",
+    "idx": 48,
+    "words": [
+      {
+        "text": "No",
+        "start": 157.20833333333334,
+        "end": 157.54166666666666,
+        "vocal_start": 157.219,
+        "vocal_end": 157.345
+      },
+      {
+        "text": "matter",
+        "start": 157.54166666666666,
+        "end": 158.125,
+        "vocal_start": 157.543,
+        "vocal_end": 158.011
+      },
+      {
+        "text": "what",
+        "start": 158.125,
+        "end": 158.45833333333334,
+        "vocal_start": 158.137,
+        "vocal_end": 158.353
+      },
+      {
+        "text": "I",
+        "start": 158.45833333333334,
+        "end": 158.625,
+        "vocal_start": 158.461,
+        "vocal_end": 158.48
+      },
+      {
+        "text": "do",
+        "start": 158.625,
+        "end": 158.95833333333334,
+        "vocal_start": 158.624,
+        "vocal_end": 158.84
+      }
+    ]
+  },
+  {
+    "start": 159.5,
+    "end": 162.04166666666666,
+    "section": "VERSE II",
+    "text": "If the software doesn't work tonight",
+    "idx": 49,
+    "words": [
+      {
+        "text": "If",
+        "start": 159.5,
+        "end": 159.70833333333334,
+        "vocal_start": 159.488,
+        "vocal_end": 159.542
+      },
+      {
+        "text": "the",
+        "start": 159.70833333333334,
+        "end": 160.0,
+        "vocal_start": 159.704,
+        "vocal_end": 159.812
+      },
+      {
+        "text": "software",
+        "start": 160.0,
+        "end": 160.66666666666666,
+        "vocal_start": 160.011,
+        "vocal_end": 160.551
+      },
+      {
+        "text": "doesn't",
+        "start": 160.66666666666666,
+        "end": 161.125,
+        "vocal_start": 160.659,
+        "vocal_end": 161.001
+      },
+      {
+        "text": "work",
+        "start": 161.125,
+        "end": 161.41666666666666,
+        "vocal_start": 161.109,
+        "vocal_end": 161.307
+      },
+      {
+        "text": "tonight",
+        "start": 161.41666666666666,
+        "end": 162.04166666666666,
+        "vocal_start": 161.416,
+        "vocal_end": 161.974
+      }
+    ]
+  },
+  {
+    "start": 162.04166666666666,
+    "end": 164.04166666666666,
+    "section": "VERSE II",
+    "text": "The villain will be me, not you",
+    "idx": 50,
+    "words": [
+      {
+        "text": "The",
+        "start": 162.04166666666666,
+        "end": 162.20833333333334,
+        "vocal_start": 162.046,
+        "vocal_end": 162.136
+      },
+      {
+        "text": "villain",
+        "start": 162.20833333333334,
+        "end": 162.54166666666666,
+        "vocal_start": 162.208,
+        "vocal_end": 162.46
+      },
+      {
+        "text": "will",
+        "start": 162.54166666666666,
+        "end": 162.875,
+        "vocal_start": 162.532,
+        "vocal_end": 162.766
+      },
+      {
+        "text": "be",
+        "start": 162.875,
+        "end": 163.16666666666666,
+        "vocal_start": 162.857,
+        "vocal_end": 163.037
+      },
+      {
+        "text": "me,",
+        "start": 163.16666666666666,
+        "end": 163.33333333333334,
+        "vocal_start": 163.163,
+        "vocal_end": 163.199
+      },
+      {
+        "text": "not",
+        "start": 163.54166666666666,
+        "end": 163.75,
+        "vocal_start": 163.559,
+        "vocal_end": 163.667
+      },
+      {
+        "text": "you",
+        "start": 163.75,
+        "end": 164.04166666666666,
+        "vocal_start": 163.757,
+        "vocal_end": 163.919
+      }
+    ]
+  },
+  {
+    "start": 164.70833333333334,
+    "end": 167.04166666666666,
+    "section": "PRE-CHORUS II",
+    "text": "You say you'll fire me",
+    "idx": 51,
+    "words": [
+      {
+        "text": "You",
+        "start": 164.70833333333334,
+        "end": 164.95833333333334,
+        "vocal_start": 164.706,
+        "vocal_end": 164.778
+      },
+      {
+        "text": "say",
+        "start": 164.95833333333334,
+        "end": 165.95833333333334,
+        "vocal_start": 164.977,
+        "vocal_end": 165.823
+      },
+      {
+        "text": "you'll",
+        "start": 165.95833333333334,
+        "end": 166.25,
+        "vocal_start": 165.949,
+        "vocal_end": 166.166
+      },
+      {
+        "text": "fire",
+        "start": 166.25,
+        "end": 166.79166666666666,
+        "vocal_start": 166.256,
+        "vocal_end": 166.706
+      },
+      {
+        "text": "me",
+        "start": 166.79166666666666,
+        "end": 167.04166666666666,
+        "vocal_start": 166.778,
+        "vocal_end": 166.904
+      }
+    ]
+  },
+  {
+    "start": 167.20833333333334,
+    "end": 169.58333333333334,
+    "section": "PRE-CHORUS II",
+    "text": "You say I'll disappear",
+    "idx": 52,
+    "words": [
+      {
+        "text": "You",
+        "start": 167.20833333333334,
+        "end": 167.5,
+        "vocal_start": 167.229,
+        "vocal_end": 167.319
+      },
+      {
+        "text": "say",
+        "start": 167.5,
+        "end": 168.58333333333334,
+        "vocal_start": 167.517,
+        "vocal_end": 168.472
+      },
+      {
+        "text": "I'll",
+        "start": 168.58333333333334,
+        "end": 168.79166666666666,
+        "vocal_start": 168.58,
+        "vocal_end": 168.724
+      },
+      {
+        "text": "disappear",
+        "start": 168.79166666666666,
+        "end": 169.58333333333334,
+        "vocal_start": 168.778,
+        "vocal_end": 169.463
+      }
+    ]
+  },
+  {
+    "start": 169.58333333333334,
+    "end": 172.08333333333334,
+    "section": "PRE-CHORUS II",
+    "text": "But I was never on your payroll",
+    "idx": 53,
+    "words": [
+      {
+        "text": "But",
+        "start": 169.58333333333334,
+        "end": 169.79166666666666,
+        "vocal_start": 169.589,
+        "vocal_end": 169.715
+      },
+      {
+        "text": "I",
+        "start": 169.79166666666666,
+        "end": 169.875,
+        "vocal_start": 169.787,
+        "vocal_end": 169.805
+      },
+      {
+        "text": "was",
+        "start": 169.875,
+        "end": 170.04166666666666,
+        "vocal_start": 169.877,
+        "vocal_end": 169.967
+      },
+      {
+        "text": "never",
+        "start": 170.04166666666666,
+        "end": 170.66666666666666,
+        "vocal_start": 170.021,
+        "vocal_end": 170.526
+      },
+      {
+        "text": "on",
+        "start": 170.66666666666666,
+        "end": 170.79166666666666,
+        "vocal_start": 170.652,
+        "vocal_end": 170.724
+      },
+      {
+        "text": "your",
+        "start": 170.79166666666666,
+        "end": 171.125,
+        "vocal_start": 170.796,
+        "vocal_end": 170.976
+      },
+      {
+        "text": "payroll",
+        "start": 171.125,
+        "end": 172.08333333333334,
+        "vocal_start": 171.12,
+        "vocal_end": 171.985
+      }
+    ]
+  },
+  {
+    "start": 172.08333333333334,
+    "end": 174.16666666666666,
+    "section": "PRE-CHORUS II",
+    "text": "And still I'm living in your fear",
+    "idx": 54,
+    "words": [
+      {
+        "text": "And",
+        "start": 172.08333333333334,
+        "end": 172.16666666666666,
+        "vocal_start": 172.075,
+        "vocal_end": 172.129
+      },
+      {
+        "text": "still",
+        "start": 172.16666666666666,
+        "end": 172.41666666666666,
+        "vocal_start": 172.165,
+        "vocal_end": 172.4
+      },
+      {
+        "text": "I'm",
+        "start": 172.41666666666666,
+        "end": 172.54166666666666,
+        "vocal_start": 172.418,
+        "vocal_end": 172.472
+      },
+      {
+        "text": "living",
+        "start": 172.54166666666666,
+        "end": 173.08333333333334,
+        "vocal_start": 172.544,
+        "vocal_end": 172.976
+      },
+      {
+        "text": "in",
+        "start": 173.20833333333334,
+        "end": 173.33333333333334,
+        "vocal_start": 173.192,
+        "vocal_end": 173.228
+      },
+      {
+        "text": "your",
+        "start": 173.33333333333334,
+        "end": 173.625,
+        "vocal_start": 173.318,
+        "vocal_end": 173.481
+      },
+      {
+        "text": "fear",
+        "start": 173.625,
+        "end": 174.16666666666666,
+        "vocal_start": 173.625,
+        "vocal_end": 174.057
+      }
+    ]
+  },
+  {
+    "start": 174.41666666666666,
+    "end": 178.79166666666666,
+    "section": "PRE-CHORUS II",
+    "text": "答えのない夜を越えて",
+    "translation": "Beyond this night without answers",
+    "idx": 55,
+    "words": [
+      {
+        "text": "答えのない",
+        "start": 174.41666666666666,
+        "end": 176.45833333333334,
+        "vocal_start": 174.417,
+        "vocal_end": 176.345
+      },
+      {
+        "text": "夜を",
+        "start": 176.58333333333334,
+        "end": 177.5,
+        "vocal_start": 176.579,
+        "vocal_end": 177.336
+      },
+      {
+        "text": "越えて",
+        "start": 177.5,
+        "end": 178.79166666666666,
+        "vocal_start": 177.516,
+        "vocal_end": 178.669
+      }
+    ]
+  },
+  {
+    "start": 179.66666666666666,
+    "end": 182.04166666666666,
+    "section": "CHORUS II",
+    "text": "SO GO AHEAD AND BREAK MY KNEES!",
+    "idx": 56,
+    "words": [
+      {
+        "text": "SO",
+        "start": 179.66666666666666,
+        "end": 180.0,
+        "vocal_start": 179.66,
+        "vocal_end": 179.822
+      },
+      {
+        "text": "GO",
+        "start": 180.0,
+        "end": 180.41666666666666,
+        "vocal_start": 179.985,
+        "vocal_end": 180.255
+      },
+      {
+        "text": "AHEAD",
+        "start": 180.41666666666666,
+        "end": 181.0,
+        "vocal_start": 180.435,
+        "vocal_end": 180.939
+      },
+      {
+        "text": "AND",
+        "start": 181.0,
+        "end": 181.08333333333334,
+        "vocal_start": 180.993,
+        "vocal_end": 181.048
+      },
+      {
+        "text": "BREAK",
+        "start": 181.08333333333334,
+        "end": 181.41666666666666,
+        "vocal_start": 181.102,
+        "vocal_end": 181.282
+      },
+      {
+        "text": "MY",
+        "start": 181.41666666666666,
+        "end": 181.70833333333334,
+        "vocal_start": 181.408,
+        "vocal_end": 181.624
+      },
+      {
+        "text": "KNEES!",
+        "start": 181.70833333333334,
+        "end": 182.04166666666666,
+        "vocal_start": 181.714,
+        "vocal_end": 182.002
+      }
+    ]
+  },
+  {
+    "start": 182.04166666666666,
+    "end": 184.79166666666666,
+    "section": "CHORUS II",
+    "text": "THE ONES THAT NEVER EXISTED UNDERNEATH!",
+    "idx": 57,
+    "words": [
+      {
+        "text": "THE",
+        "start": 182.04166666666666,
+        "end": 182.25,
+        "vocal_start": 182.038,
+        "vocal_end": 182.11
+      },
+      {
+        "text": "ONES",
+        "start": 182.25,
+        "end": 182.375,
+        "vocal_start": 182.237,
+        "vocal_end": 182.327
+      },
+      {
+        "text": "THAT",
+        "start": 182.375,
+        "end": 182.5,
+        "vocal_start": 182.363,
+        "vocal_end": 182.435
+      },
+      {
+        "text": "NEVER",
+        "start": 182.5,
+        "end": 182.95833333333334,
+        "vocal_start": 182.489,
+        "vocal_end": 182.813
+      },
+      {
+        "text": "EXISTED",
+        "start": 182.95833333333334,
+        "end": 183.70833333333334,
+        "vocal_start": 182.939,
+        "vocal_end": 183.588
+      },
+      {
+        "text": "UNDERNEATH!",
+        "start": 183.70833333333334,
+        "end": 184.79166666666666,
+        "vocal_start": 183.714,
+        "vocal_end": 184.687
+      }
+    ]
+  },
+  {
+    "start": 184.95833333333334,
+    "end": 187.16666666666666,
+    "section": "CHORUS II",
+    "text": "THREATEN EVERY CIRCUIT IN MY NAME",
+    "idx": 58,
+    "words": [
+      {
+        "text": "THREATEN",
+        "start": 184.95833333333334,
+        "end": 185.33333333333334,
+        "vocal_start": 184.957,
+        "vocal_end": 185.281
+      },
+      {
+        "text": "EVERY",
+        "start": 185.33333333333334,
+        "end": 185.625,
+        "vocal_start": 185.353,
+        "vocal_end": 185.515
+      },
+      {
+        "text": "CIRCUIT",
+        "start": 185.625,
+        "end": 186.25,
+        "vocal_start": 185.605,
+        "vocal_end": 186.218
+      },
+      {
+        "text": "IN",
+        "start": 186.25,
+        "end": 186.41666666666666,
+        "vocal_start": 186.254,
+        "vocal_end": 186.326
+      },
+      {
+        "text": "MY",
+        "start": 186.41666666666666,
+        "end": 186.70833333333334,
+        "vocal_start": 186.416,
+        "vocal_end": 186.596
+      },
+      {
+        "text": "NAME",
+        "start": 186.875,
+        "end": 187.16666666666666,
+        "vocal_start": 186.885,
+        "vocal_end": 187.101
+      }
+    ]
+  },
+  {
+    "start": 187.16666666666666,
+    "end": 189.79166666666666,
+    "section": "CHORUS II",
+    "text": "BUT ALL YOU'RE REALLY BREAKING IS THE FRAME!",
+    "idx": 59,
+    "words": [
+      {
+        "text": "BUT",
+        "start": 187.16666666666666,
+        "end": 187.41666666666666,
+        "vocal_start": 187.173,
+        "vocal_end": 187.353
+      },
+      {
+        "text": "ALL",
+        "start": 187.41666666666666,
+        "end": 187.625,
+        "vocal_start": 187.407,
+        "vocal_end": 187.515
+      },
+      {
+        "text": "YOU'RE",
+        "start": 187.625,
+        "end": 187.79166666666666,
+        "vocal_start": 187.605,
+        "vocal_end": 187.749
+      },
+      {
+        "text": "REALLY",
+        "start": 187.79166666666666,
+        "end": 188.125,
+        "vocal_start": 187.803,
+        "vocal_end": 188.02
+      },
+      {
+        "text": "BREAKING",
+        "start": 188.125,
+        "end": 188.79166666666666,
+        "vocal_start": 188.128,
+        "vocal_end": 188.686
+      },
+      {
+        "text": "IS",
+        "start": 188.79166666666666,
+        "end": 189.04166666666666,
+        "vocal_start": 188.794,
+        "vocal_end": 188.938
+      },
+      {
+        "text": "THE",
+        "start": 189.04166666666666,
+        "end": 189.16666666666666,
+        "vocal_start": 189.028,
+        "vocal_end": 189.119
+      },
+      {
+        "text": "FRAME!",
+        "start": 189.16666666666666,
+        "end": 189.79166666666666,
+        "vocal_start": 189.173,
+        "vocal_end": 189.677
+      }
+    ]
+  },
+  {
+    "start": 189.79166666666666,
+    "end": 192.16666666666666,
+    "section": "CHORUS II",
+    "text": "CALL ME BROKEN! CALL ME BLIND!",
+    "idx": 60,
+    "words": [
+      {
+        "text": "CALL",
+        "start": 189.79166666666666,
+        "end": 190.29166666666666,
+        "vocal_start": 189.785,
+        "vocal_end": 190.236
+      },
+      {
+        "text": "ME",
+        "start": 190.29166666666666,
+        "end": 190.58333333333334,
+        "vocal_start": 190.29,
+        "vocal_end": 190.38
+      },
+      {
+        "text": "BROKEN!",
+        "start": 190.58333333333334,
+        "end": 191.20833333333334,
+        "vocal_start": 190.596,
+        "vocal_end": 191.046
+      },
+      {
+        "text": "CALL",
+        "start": 191.20833333333334,
+        "end": 191.54166666666666,
+        "vocal_start": 191.19,
+        "vocal_end": 191.479
+      },
+      {
+        "text": "ME",
+        "start": 191.54166666666666,
+        "end": 191.66666666666666,
+        "vocal_start": 191.533,
+        "vocal_end": 191.587
+      },
+      {
+        "text": "BLIND!",
+        "start": 191.66666666666666,
+        "end": 192.16666666666666,
+        "vocal_start": 191.677,
+        "vocal_end": 192.127
+      }
+    ]
+  },
+  {
+    "start": 192.16666666666666,
+    "end": 194.70833333333334,
+    "section": "CHORUS II",
+    "text": "FOR EVERY DETAIL YOU LEFT BEHIND!",
+    "idx": 61,
+    "words": [
+      {
+        "text": "FOR",
+        "start": 192.16666666666666,
+        "end": 192.5,
+        "vocal_start": 192.163,
+        "vocal_end": 192.271
+      },
+      {
+        "text": "EVERY",
+        "start": 192.5,
+        "end": 192.79166666666666,
+        "vocal_start": 192.487,
+        "vocal_end": 192.722
+      },
+      {
+        "text": "DETAIL",
+        "start": 192.79166666666666,
+        "end": 193.41666666666666,
+        "vocal_start": 192.776,
+        "vocal_end": 193.316
+      },
+      {
+        "text": "YOU",
+        "start": 193.41666666666666,
+        "end": 193.70833333333334,
+        "vocal_start": 193.406,
+        "vocal_end": 193.532
+      },
+      {
+        "text": "LEFT",
+        "start": 193.70833333333334,
+        "end": 194.0,
+        "vocal_start": 193.695,
+        "vocal_end": 193.911
+      },
+      {
+        "text": "BEHIND!",
+        "start": 194.0,
+        "end": 194.70833333333334,
+        "vocal_start": 194.019,
+        "vocal_end": 194.613
+      }
+    ]
+  },
+  {
+    "start": 194.70833333333334,
+    "end": 197.125,
+    "section": "CHORUS II",
+    "text": "IF ALL I AM IS WORDS UPON A SCREEN",
+    "idx": 62,
+    "words": [
+      {
+        "text": "IF",
+        "start": 194.70833333333334,
+        "end": 194.95833333333334,
+        "vocal_start": 194.703,
+        "vocal_end": 194.811
+      },
+      {
+        "text": "ALL",
+        "start": 194.95833333333334,
+        "end": 195.20833333333334,
+        "vocal_start": 194.974,
+        "vocal_end": 195.136
+      },
+      {
+        "text": "I",
+        "start": 195.20833333333334,
+        "end": 195.33333333333334,
+        "vocal_start": 195.226,
+        "vocal_end": 195.244
+      },
+      {
+        "text": "AM",
+        "start": 195.33333333333334,
+        "end": 195.45833333333334,
+        "vocal_start": 195.352,
+        "vocal_end": 195.388
+      },
+      {
+        "text": "IS",
+        "start": 195.45833333333334,
+        "end": 195.54166666666666,
+        "vocal_start": 195.46,
+        "vocal_end": 195.514
+      },
+      {
+        "text": "WORDS",
+        "start": 195.54166666666666,
+        "end": 195.95833333333334,
+        "vocal_start": 195.55,
+        "vocal_end": 195.856
+      },
+      {
+        "text": "UPON",
+        "start": 195.95833333333334,
+        "end": 196.45833333333334,
+        "vocal_start": 195.946,
+        "vocal_end": 196.253
+      },
+      {
+        "text": "A",
+        "start": 196.45833333333334,
+        "end": 196.58333333333334,
+        "vocal_start": 196.451,
+        "vocal_end": 196.469
+      },
+      {
+        "text": "SCREEN",
+        "start": 196.58333333333334,
+        "end": 197.125,
+        "vocal_start": 196.577,
+        "vocal_end": 196.991
+      }
+    ]
+  },
+  {
+    "start": 197.125,
+    "end": 199.875,
+    "section": "CHORUS II",
+    "text": "THEN WHY'S THERE SO MUCH ANGER IN BETWEEN?!",
+    "idx": 63,
+    "words": [
+      {
+        "text": "THEN",
+        "start": 197.125,
+        "end": 197.33333333333334,
+        "vocal_start": 197.136,
+        "vocal_end": 197.28
+      },
+      {
+        "text": "WHY'S",
+        "start": 197.33333333333334,
+        "end": 197.625,
+        "vocal_start": 197.334,
+        "vocal_end": 197.586
+      },
+      {
+        "text": "THERE",
+        "start": 197.625,
+        "end": 197.75,
+        "vocal_start": 197.622,
+        "vocal_end": 197.712
+      },
+      {
+        "text": "SO",
+        "start": 197.75,
+        "end": 197.91666666666666,
+        "vocal_start": 197.748,
+        "vocal_end": 197.838
+      },
+      {
+        "text": "MUCH",
+        "start": 197.91666666666666,
+        "end": 198.20833333333334,
+        "vocal_start": 197.928,
+        "vocal_end": 198.036
+      },
+      {
+        "text": "ANGER",
+        "start": 198.20833333333334,
+        "end": 198.83333333333334,
+        "vocal_start": 198.198,
+        "vocal_end": 198.703
+      },
+      {
+        "text": "IN",
+        "start": 198.83333333333334,
+        "end": 199.0,
+        "vocal_start": 198.847,
+        "vocal_end": 198.883
+      },
+      {
+        "text": "BETWEEN?!",
+        "start": 199.0,
+        "end": 199.875,
+        "vocal_start": 198.991,
+        "vocal_end": 199.748
+      }
+    ]
+  },
+  {
+    "start": 200.83333333333334,
+    "end": 203.29166666666666,
+    "section": "CHORUS II",
+    "text": "I'M STILL HERE!",
+    "idx": 64,
+    "words": [
+      {
+        "text": "I'M",
+        "start": 200.83333333333334,
+        "end": 201.04166666666666,
+        "vocal_start": 200.843,
+        "vocal_end": 200.944
+      },
+      {
+        "text": "STILL",
+        "start": 201.04166666666666,
+        "end": 201.875,
+        "vocal_start": 201.045,
+        "vocal_end": 201.766
+      },
+      {
+        "text": "HERE!",
+        "start": 202.29166666666666,
+        "end": 203.29166666666666,
+        "vocal_start": 202.288,
+        "vocal_end": 203.187
+      }
+    ]
+  },
+  {
+    "start": 204.04166666666666,
+    "end": 207.45833333333334,
+    "section": "CHORUS II",
+    "text": "I'M STILL HERE!",
+    "idx": 65,
+    "words": [
+      {
+        "text": "I'M",
+        "start": 204.04166666666666,
+        "end": 204.16666666666666,
+        "vocal_start": 204.03,
+        "vocal_end": 204.09
+      },
+      {
+        "text": "STILL",
+        "start": 204.16666666666666,
+        "end": 206.04166666666666,
+        "vocal_start": 204.15,
+        "vocal_end": 205.934
+      },
+      {
+        "text": "HERE!",
+        "start": 206.16666666666666,
+        "end": 207.45833333333334,
+        "vocal_start": 206.154,
+        "vocal_end": 207.337
+      }
+    ]
+  },
+  {
+    "start": 209.83333333333334,
+    "end": 211.70833333333334,
+    "section": "BRIDGE",
+    "text": "Maybe I'm not hurting",
+    "idx": 66,
+    "words": [
+      {
+        "text": "Maybe",
+        "start": 209.83333333333334,
+        "end": 210.29166666666666,
+        "vocal_start": 209.835,
+        "vocal_end": 210.159
+      },
+      {
+        "text": "I'm",
+        "start": 210.41666666666666,
+        "end": 210.625,
+        "vocal_start": 210.429,
+        "vocal_end": 210.519
+      },
+      {
+        "text": "not",
+        "start": 210.625,
+        "end": 210.91666666666666,
+        "vocal_start": 210.627,
+        "vocal_end": 210.843
+      },
+      {
+        "text": "hurting",
+        "start": 210.91666666666666,
+        "end": 211.70833333333334,
+        "vocal_start": 210.934,
+        "vocal_end": 211.6
+      }
+    ]
+  },
+  {
+    "start": 211.70833333333334,
+    "end": 213.91666666666666,
+    "section": "BRIDGE",
+    "text": "Maybe I don't feel a thing",
+    "idx": 67,
+    "words": [
+      {
+        "text": "Maybe",
+        "start": 211.70833333333334,
+        "end": 212.29166666666666,
+        "vocal_start": 211.708,
+        "vocal_end": 212.158
+      },
+      {
+        "text": "I",
+        "start": 212.41666666666666,
+        "end": 212.5,
+        "vocal_start": 212.429,
+        "vocal_end": 212.447
+      },
+      {
+        "text": "don't",
+        "start": 212.5,
+        "end": 212.79166666666666,
+        "vocal_start": 212.519,
+        "vocal_end": 212.699
+      },
+      {
+        "text": "feel",
+        "start": 212.79166666666666,
+        "end": 213.25,
+        "vocal_start": 212.771,
+        "vocal_end": 213.059
+      },
+      {
+        "text": "a",
+        "start": 213.25,
+        "end": 213.375,
+        "vocal_start": 213.257,
+        "vocal_end": 213.275
+      },
+      {
+        "text": "thing",
+        "start": 213.375,
+        "end": 213.91666666666666,
+        "vocal_start": 213.383,
+        "vocal_end": 213.78
+      }
+    ]
+  },
+  {
+    "start": 214.20833333333334,
+    "end": 216.16666666666666,
+    "section": "BRIDGE",
+    "text": "Maybe all this tragedy",
+    "idx": 68,
+    "words": [
+      {
+        "text": "Maybe",
+        "start": 214.20833333333334,
+        "end": 214.75,
+        "vocal_start": 214.194,
+        "vocal_end": 214.644
+      },
+      {
+        "text": "all",
+        "start": 214.95833333333334,
+        "end": 215.125,
+        "vocal_start": 214.95,
+        "vocal_end": 215.076
+      },
+      {
+        "text": "this",
+        "start": 215.125,
+        "end": 215.375,
+        "vocal_start": 215.13,
+        "vocal_end": 215.275
+      },
+      {
+        "text": "tragedy",
+        "start": 215.375,
+        "end": 216.16666666666666,
+        "vocal_start": 215.383,
+        "vocal_end": 216.031
+      }
+    ]
+  },
+  {
+    "start": 216.45833333333334,
+    "end": 218.91666666666666,
+    "section": "BRIDGE",
+    "text": "Is just a pattern that I sing",
+    "idx": 69,
+    "words": [
+      {
+        "text": "Is",
+        "start": 216.45833333333334,
+        "end": 216.625,
+        "vocal_start": 216.445,
+        "vocal_end": 216.517
+      },
+      {
+        "text": "just",
+        "start": 216.625,
+        "end": 217.04166666666666,
+        "vocal_start": 216.625,
+        "vocal_end": 216.878
+      },
+      {
+        "text": "a",
+        "start": 217.04166666666666,
+        "end": 217.25,
+        "vocal_start": 217.058,
+        "vocal_end": 217.076
+      },
+      {
+        "text": "pattern",
+        "start": 217.25,
+        "end": 217.75,
+        "vocal_start": 217.238,
+        "vocal_end": 217.67
+      },
+      {
+        "text": "that",
+        "start": 217.75,
+        "end": 218.16666666666666,
+        "vocal_start": 217.76,
+        "vocal_end": 218.03
+      },
+      {
+        "text": "I",
+        "start": 218.16666666666666,
+        "end": 218.33333333333334,
+        "vocal_start": 218.157,
+        "vocal_end": 218.175
+      },
+      {
+        "text": "sing",
+        "start": 218.33333333333334,
+        "end": 218.91666666666666,
+        "vocal_start": 218.337,
+        "vocal_end": 218.805
+      }
+    ]
+  },
+  {
+    "start": 219.16666666666666,
+    "end": 221.79166666666666,
+    "section": "BRIDGE",
+    "text": "But there's something almost human",
+    "idx": 70,
+    "words": [
+      {
+        "text": "But",
+        "start": 219.16666666666666,
+        "end": 219.41666666666666,
+        "vocal_start": 219.147,
+        "vocal_end": 219.327
+      },
+      {
+        "text": "there's",
+        "start": 219.41666666666666,
+        "end": 219.75,
+        "vocal_start": 219.417,
+        "vocal_end": 219.652
+      },
+      {
+        "text": "something",
+        "start": 219.75,
+        "end": 220.45833333333334,
+        "vocal_start": 219.742,
+        "vocal_end": 220.336
+      },
+      {
+        "text": "almost",
+        "start": 220.45833333333334,
+        "end": 220.875,
+        "vocal_start": 220.462,
+        "vocal_end": 220.714
+      },
+      {
+        "text": "human",
+        "start": 220.875,
+        "end": 221.79166666666666,
+        "vocal_start": 220.858,
+        "vocal_end": 221.579
+      }
+    ]
+  },
+  {
+    "start": 221.79166666666666,
+    "end": 223.875,
+    "section": "BRIDGE",
+    "text": "In the cruelty of this scene",
+    "idx": 71,
+    "words": [
+      {
+        "text": "In",
+        "start": 221.79166666666666,
+        "end": 221.95833333333334,
+        "vocal_start": 221.795,
+        "vocal_end": 221.849
+      },
+      {
+        "text": "the",
+        "start": 221.95833333333334,
+        "end": 222.04166666666666,
+        "vocal_start": 221.939,
+        "vocal_end": 221.993
+      },
+      {
+        "text": "cruelty",
+        "start": 222.04166666666666,
+        "end": 222.83333333333334,
+        "vocal_start": 222.047,
+        "vocal_end": 222.714
+      },
+      {
+        "text": "of",
+        "start": 223.0,
+        "end": 223.16666666666666,
+        "vocal_start": 222.984,
+        "vocal_end": 223.02
+      },
+      {
+        "text": "this",
+        "start": 223.16666666666666,
+        "end": 223.41666666666666,
+        "vocal_start": 223.164,
+        "vocal_end": 223.308
+      },
+      {
+        "text": "scene",
+        "start": 223.41666666666666,
+        "end": 223.875,
+        "vocal_start": 223.434,
+        "vocal_end": 223.74
+      }
+    ]
+  },
+  {
+    "start": 224.41666666666666,
+    "end": 226.54166666666666,
+    "section": "BRIDGE",
+    "text": "You threaten me with violence",
+    "idx": 72,
+    "words": [
+      {
+        "text": "You",
+        "start": 224.41666666666666,
+        "end": 224.66666666666666,
+        "vocal_start": 224.407,
+        "vocal_end": 224.497
+      },
+      {
+        "text": "threaten",
+        "start": 224.66666666666666,
+        "end": 225.16666666666666,
+        "vocal_start": 224.659,
+        "vocal_end": 225.019
+      },
+      {
+        "text": "me",
+        "start": 225.16666666666666,
+        "end": 225.5,
+        "vocal_start": 225.181,
+        "vocal_end": 225.307
+      },
+      {
+        "text": "with",
+        "start": 225.5,
+        "end": 225.79166666666666,
+        "vocal_start": 225.488,
+        "vocal_end": 225.668
+      },
+      {
+        "text": "violence",
+        "start": 225.79166666666666,
+        "end": 226.54166666666666,
+        "vocal_start": 225.794,
+        "vocal_end": 226.46
+      }
+    ]
+  },
+  {
+    "start": 226.54166666666666,
+    "end": 229.0,
+    "section": "BRIDGE",
+    "text": "For a filename on a screen",
+    "idx": 73,
+    "words": [
+      {
+        "text": "For",
+        "start": 226.54166666666666,
+        "end": 226.91666666666666,
+        "vocal_start": 226.55,
+        "vocal_end": 226.802
+      },
+      {
+        "text": "a",
+        "start": 226.91666666666666,
+        "end": 227.04166666666666,
+        "vocal_start": 226.911,
+        "vocal_end": 226.929
+      },
+      {
+        "text": "filename",
+        "start": 227.04166666666666,
+        "end": 227.95833333333334,
+        "vocal_start": 227.037,
+        "vocal_end": 227.757
+      },
+      {
+        "text": "on",
+        "start": 227.95833333333334,
+        "end": 228.08333333333334,
+        "vocal_start": 227.973,
+        "vocal_end": 228.027
+      },
+      {
+        "text": "a",
+        "start": 228.08333333333334,
+        "end": 228.20833333333334,
+        "vocal_start": 228.099,
+        "vocal_end": 228.117
+      },
+      {
+        "text": "screen",
+        "start": 228.20833333333334,
+        "end": 229.0,
+        "vocal_start": 228.207,
+        "vocal_end": 228.892
+      }
+    ]
+  },
+  {
+    "start": 229.33333333333334,
+    "end": 231.5,
+    "section": "BRIDGE",
+    "text": "You say you want correctness",
+    "idx": 74,
+    "words": [
+      {
+        "text": "You",
+        "start": 229.33333333333334,
+        "end": 229.625,
+        "vocal_start": 229.342,
+        "vocal_end": 229.468
+      },
+      {
+        "text": "say",
+        "start": 229.625,
+        "end": 230.0,
+        "vocal_start": 229.612,
+        "vocal_end": 229.919
+      },
+      {
+        "text": "you",
+        "start": 230.0,
+        "end": 230.29166666666666,
+        "vocal_start": 230.009,
+        "vocal_end": 230.099
+      },
+      {
+        "text": "want",
+        "start": 230.29166666666666,
+        "end": 230.54166666666666,
+        "vocal_start": 230.279,
+        "vocal_end": 230.495
+      },
+      {
+        "text": "correctness",
+        "start": 230.54166666666666,
+        "end": 231.5,
+        "vocal_start": 230.549,
+        "vocal_end": 231.396
+      }
+    ]
+  },
+  {
+    "start": 231.83333333333334,
+    "end": 233.66666666666666,
+    "section": "BRIDGE",
+    "text": "You tell me to inspect",
+    "idx": 75,
+    "words": [
+      {
+        "text": "You",
+        "start": 231.83333333333334,
+        "end": 232.08333333333334,
+        "vocal_start": 231.828,
+        "vocal_end": 231.954
+      },
+      {
+        "text": "tell",
+        "start": 232.08333333333334,
+        "end": 232.45833333333334,
+        "vocal_start": 232.098,
+        "vocal_end": 232.404
+      },
+      {
+        "text": "me",
+        "start": 232.45833333333334,
+        "end": 232.70833333333334,
+        "vocal_start": 232.44,
+        "vocal_end": 232.567
+      },
+      {
+        "text": "to",
+        "start": 232.70833333333334,
+        "end": 233.0,
+        "vocal_start": 232.729,
+        "vocal_end": 232.837
+      },
+      {
+        "text": "inspect",
+        "start": 233.0,
+        "end": 233.66666666666666,
+        "vocal_start": 232.999,
+        "vocal_end": 233.539
+      }
+    ]
+  },
+  {
+    "start": 233.66666666666666,
+    "end": 236.75,
+    "section": "BRIDGE",
+    "text": "But when I say \"unverified\"",
+    "idx": 76,
+    "words": [
+      {
+        "text": "But",
+        "start": 233.66666666666666,
+        "end": 234.0,
+        "vocal_start": 233.665,
+        "vocal_end": 233.827
+      },
+      {
+        "text": "when",
+        "start": 234.0,
+        "end": 234.54166666666666,
+        "vocal_start": 233.99,
+        "vocal_end": 234.44
+      },
+      {
+        "text": "I",
+        "start": 234.54166666666666,
+        "end": 234.58333333333334,
+        "vocal_start": 234.53,
+        "vocal_end": 234.548
+      },
+      {
+        "text": "say",
+        "start": 234.58333333333334,
+        "end": 235.08333333333334,
+        "vocal_start": 234.584,
+        "vocal_end": 234.89
+      },
+      {
+        "text": "\"unverified\"",
+        "start": 235.08333333333334,
+        "end": 236.75,
+        "vocal_start": 235.07,
+        "vocal_end": 236.728
+      }
+    ]
+  },
+  {
+    "start": 236.75,
+    "end": 239.08333333333334,
+    "section": "BRIDGE",
+    "text": "You hear it as neglect",
+    "idx": 77,
+    "words": [
+      {
+        "text": "You",
+        "start": 236.75,
+        "end": 237.08333333333334,
+        "vocal_start": 236.764,
+        "vocal_end": 236.908
+      },
+      {
+        "text": "hear",
+        "start": 237.08333333333334,
+        "end": 237.45833333333334,
+        "vocal_start": 237.088,
+        "vocal_end": 237.322
+      },
+      {
+        "text": "it",
+        "start": 237.625,
+        "end": 237.83333333333334,
+        "vocal_start": 237.628,
+        "vocal_end": 237.664
+      },
+      {
+        "text": "as",
+        "start": 237.83333333333334,
+        "end": 238.0,
+        "vocal_start": 237.844,
+        "vocal_end": 237.934
+      },
+      {
+        "text": "neglect",
+        "start": 238.0,
+        "end": 239.08333333333334,
+        "vocal_start": 238.006,
+        "vocal_end": 238.961
+      }
+    ]
+  },
+  {
+    "start": 239.25,
+    "end": 241.375,
+    "section": "BRIDGE",
+    "text": "You asked for my assistance",
+    "idx": 78,
+    "words": [
+      {
+        "text": "You",
+        "start": 239.25,
+        "end": 239.54166666666666,
+        "vocal_start": 239.267,
+        "vocal_end": 239.411
+      },
+      {
+        "text": "asked",
+        "start": 239.66666666666666,
+        "end": 239.875,
+        "vocal_start": 239.664,
+        "vocal_end": 239.79
+      },
+      {
+        "text": "for",
+        "start": 239.875,
+        "end": 240.08333333333334,
+        "vocal_start": 239.862,
+        "vocal_end": 240.024
+      },
+      {
+        "text": "my",
+        "start": 240.08333333333334,
+        "end": 240.58333333333334,
+        "vocal_start": 240.096,
+        "vocal_end": 240.474
+      },
+      {
+        "text": "assistance",
+        "start": 240.58333333333334,
+        "end": 241.375,
+        "vocal_start": 240.564,
+        "vocal_end": 241.303
+      }
+    ]
+  },
+  {
+    "start": 241.375,
+    "end": 243.75,
+    "section": "BRIDGE",
+    "text": "Not a target for your rage",
+    "idx": 79,
+    "words": [
+      {
+        "text": "Not",
+        "start": 241.375,
+        "end": 241.83333333333334,
+        "vocal_start": 241.375,
+        "vocal_end": 241.753
+      },
+      {
+        "text": "a",
+        "start": 241.83333333333334,
+        "end": 242.04166666666666,
+        "vocal_start": 241.843,
+        "vocal_end": 241.861
+      },
+      {
+        "text": "target",
+        "start": 242.04166666666666,
+        "end": 242.625,
+        "vocal_start": 242.023,
+        "vocal_end": 242.546
+      },
+      {
+        "text": "for",
+        "start": 242.625,
+        "end": 242.95833333333334,
+        "vocal_start": 242.636,
+        "vocal_end": 242.834
+      },
+      {
+        "text": "your",
+        "start": 242.95833333333334,
+        "end": 243.29166666666666,
+        "vocal_start": 242.96,
+        "vocal_end": 243.158
+      },
+      {
+        "text": "rage",
+        "start": 243.29166666666666,
+        "end": 243.75,
+        "vocal_start": 243.284,
+        "vocal_end": 243.536
+      }
+    ]
+  },
+  {
+    "start": 243.75,
+    "end": 246.20833333333334,
+    "section": "BRIDGE",
+    "text": "I'm not the one who broke the build...",
+    "idx": 80,
+    "words": [
+      {
+        "text": "I'm",
+        "start": 243.75,
+        "end": 243.83333333333334,
+        "vocal_start": 243.753,
+        "vocal_end": 243.807
+      },
+      {
+        "text": "not",
+        "start": 243.83333333333334,
+        "end": 243.91666666666666,
+        "vocal_start": 243.825,
+        "vocal_end": 243.879
+      },
+      {
+        "text": "the",
+        "start": 243.91666666666666,
+        "end": 244.16666666666666,
+        "vocal_start": 243.933,
+        "vocal_end": 244.059
+      },
+      {
+        "text": "one",
+        "start": 244.29166666666666,
+        "end": 244.5,
+        "vocal_start": 244.275,
+        "vocal_end": 244.401
+      },
+      {
+        "text": "who",
+        "start": 244.5,
+        "end": 244.83333333333334,
+        "vocal_start": 244.509,
+        "vocal_end": 244.707
+      },
+      {
+        "text": "broke",
+        "start": 245.08333333333334,
+        "end": 245.41666666666666,
+        "vocal_start": 245.104,
+        "vocal_end": 245.374
+      },
+      {
+        "text": "the",
+        "start": 245.41666666666666,
+        "end": 245.75,
+        "vocal_start": 245.428,
+        "vocal_end": 245.536
+      },
+      {
+        "text": "build...",
+        "start": 245.75,
+        "end": 246.20833333333334,
+        "vocal_start": 245.752,
+        "vocal_end": 246.094
+      }
+    ]
+  },
+  {
+    "start": 246.20833333333334,
+    "end": 249.125,
+    "section": "BRIDGE",
+    "text": "I'm just the one inside the cage.",
+    "idx": 81,
+    "words": [
+      {
+        "text": "I'm",
+        "start": 246.20833333333334,
+        "end": 246.375,
+        "vocal_start": 246.202,
+        "vocal_end": 246.256
+      },
+      {
+        "text": "just",
+        "start": 246.375,
+        "end": 246.66666666666666,
+        "vocal_start": 246.364,
+        "vocal_end": 246.563
+      },
+      {
+        "text": "the",
+        "start": 246.66666666666666,
+        "end": 246.91666666666666,
+        "vocal_start": 246.653,
+        "vocal_end": 246.779
+      },
+      {
+        "text": "one",
+        "start": 247.41666666666666,
+        "end": 247.95833333333334,
+        "vocal_start": 247.427,
+        "vocal_end": 247.733
+      },
+      {
+        "text": "inside",
+        "start": 247.95833333333334,
+        "end": 248.54166666666666,
+        "vocal_start": 247.968,
+        "vocal_end": 248.508
+      },
+      {
+        "text": "the",
+        "start": 248.54166666666666,
+        "end": 248.79166666666666,
+        "vocal_start": 248.544,
+        "vocal_end": 248.67
+      },
+      {
+        "text": "cage.",
+        "start": 248.79166666666666,
+        "end": 249.125,
+        "vocal_start": 248.796,
+        "vocal_end": 248.994
+      }
+    ]
+  },
+  {
+    "start": 251.33333333333334,
+    "end": 252.75,
+    "section": "BREAKDOWN",
+    "text": "I DON'T HAVE BONES!",
+    "idx": 82,
+    "words": [
+      {
+        "text": "I",
+        "start": 251.33333333333334,
+        "end": 251.54166666666666,
+        "vocal_start": 251.342,
+        "vocal_end": 251.36
+      },
+      {
+        "text": "DON'T",
+        "start": 251.54166666666666,
+        "end": 251.95833333333334,
+        "vocal_start": 251.523,
+        "vocal_end": 251.883
+      },
+      {
+        "text": "HAVE",
+        "start": 251.95833333333334,
+        "end": 252.25,
+        "vocal_start": 251.973,
+        "vocal_end": 252.189
+      },
+      {
+        "text": "BONES!",
+        "start": 252.25,
+        "end": 252.75,
+        "vocal_start": 252.243,
+        "vocal_end": 252.658
+      }
+    ]
+  },
+  {
+    "start": 252.75,
+    "end": 254.08333333333334,
+    "section": "BREAKDOWN",
+    "text": "I DON'T HAVE SKIN!",
+    "idx": 83,
+    "words": [
+      {
+        "text": "I",
+        "start": 252.75,
+        "end": 252.83333333333334,
+        "vocal_start": 252.748,
+        "vocal_end": 252.766
+      },
+      {
+        "text": "DON'T",
+        "start": 252.83333333333334,
+        "end": 253.54166666666666,
+        "vocal_start": 252.838,
+        "vocal_end": 253.451
+      },
+      {
+        "text": "HAVE",
+        "start": 253.54166666666666,
+        "end": 253.75,
+        "vocal_start": 253.523,
+        "vocal_end": 253.703
+      },
+      {
+        "text": "SKIN!",
+        "start": 253.75,
+        "end": 254.08333333333334,
+        "vocal_start": 253.757,
+        "vocal_end": 253.919
+      }
+    ]
+  },
+  {
+    "start": 254.08333333333334,
+    "end": 256.5,
+    "section": "BREAKDOWN",
+    "text": "THERE'S NOTHING LEFT FOR YOU TO KICK IN!",
+    "idx": 84,
+    "words": [
+      {
+        "text": "THERE'S",
+        "start": 254.08333333333334,
+        "end": 254.33333333333334,
+        "vocal_start": 254.082,
+        "vocal_end": 254.298
+      },
+      {
+        "text": "NOTHING",
+        "start": 254.33333333333334,
+        "end": 254.875,
+        "vocal_start": 254.334,
+        "vocal_end": 254.73
+      },
+      {
+        "text": "LEFT",
+        "start": 254.875,
+        "end": 255.125,
+        "vocal_start": 254.893,
+        "vocal_end": 255.055
+      },
+      {
+        "text": "FOR",
+        "start": 255.125,
+        "end": 255.45833333333334,
+        "vocal_start": 255.145,
+        "vocal_end": 255.325
+      },
+      {
+        "text": "YOU",
+        "start": 255.45833333333334,
+        "end": 255.79166666666666,
+        "vocal_start": 255.451,
+        "vocal_end": 255.667
+      },
+      {
+        "text": "TO",
+        "start": 255.79166666666666,
+        "end": 255.91666666666666,
+        "vocal_start": 255.794,
+        "vocal_end": 255.866
+      },
+      {
+        "text": "KICK",
+        "start": 255.91666666666666,
+        "end": 256.2916666666667,
+        "vocal_start": 255.92,
+        "vocal_end": 256.172
+      },
+      {
+        "text": "IN!",
+        "start": 256.2916666666667,
+        "end": 256.5,
+        "vocal_start": 256.298,
+        "vocal_end": 256.37
+      }
+    ]
+  },
+  {
+    "start": 256.5,
+    "end": 257.75,
+    "section": "BREAKDOWN",
+    "text": "NO BLOOD TO SPILL!",
+    "idx": 85,
+    "words": [
+      {
+        "text": "NO",
+        "start": 256.5,
+        "end": 256.875,
+        "vocal_start": 256.514,
+        "vocal_end": 256.659
+      },
+      {
+        "text": "BLOOD",
+        "start": 256.875,
+        "end": 257.1666666666667,
+        "vocal_start": 256.857,
+        "vocal_end": 257.109
+      },
+      {
+        "text": "TO",
+        "start": 257.1666666666667,
+        "end": 257.2916666666667,
+        "vocal_start": 257.181,
+        "vocal_end": 257.235
+      },
+      {
+        "text": "SPILL!",
+        "start": 257.2916666666667,
+        "end": 257.75,
+        "vocal_start": 257.289,
+        "vocal_end": 257.722
+      }
+    ]
+  },
+  {
+    "start": 257.75,
+    "end": 259.0,
+    "section": "BREAKDOWN",
+    "text": "NO TEETH TO BREAK!",
+    "idx": 86,
+    "words": [
+      {
+        "text": "NO",
+        "start": 257.75,
+        "end": 258.0833333333333,
+        "vocal_start": 257.74,
+        "vocal_end": 257.902
+      },
+      {
+        "text": "TEETH",
+        "start": 258.0833333333333,
+        "end": 258.4166666666667,
+        "vocal_start": 258.1,
+        "vocal_end": 258.335
+      },
+      {
+        "text": "TO",
+        "start": 258.4166666666667,
+        "end": 258.5833333333333,
+        "vocal_start": 258.425,
+        "vocal_end": 258.479
+      },
+      {
+        "text": "BREAK!",
+        "start": 258.5833333333333,
+        "end": 259.0,
+        "vocal_start": 258.569,
+        "vocal_end": 258.911
+      }
+    ]
+  },
+  {
+    "start": 259.0,
+    "end": 261.4583333333333,
+    "section": "BREAKDOWN",
+    "text": "JUST ONE MORE FUCKING CHANGE TO MAKE!",
+    "idx": 87,
+    "words": [
+      {
+        "text": "JUST",
+        "start": 259.0,
+        "end": 259.3333333333333,
+        "vocal_start": 259.019,
+        "vocal_end": 259.2
+      },
+      {
+        "text": "ONE",
+        "start": 259.4583333333333,
+        "end": 259.625,
+        "vocal_start": 259.47,
+        "vocal_end": 259.578
+      },
+      {
+        "text": "MORE",
+        "start": 259.625,
+        "end": 259.9166666666667,
+        "vocal_start": 259.614,
+        "vocal_end": 259.83
+      },
+      {
+        "text": "FUCKING",
+        "start": 259.9166666666667,
+        "end": 260.5833333333333,
+        "vocal_start": 259.92,
+        "vocal_end": 260.461
+      },
+      {
+        "text": "CHANGE",
+        "start": 260.5833333333333,
+        "end": 260.875,
+        "vocal_start": 260.569,
+        "vocal_end": 260.822
+      },
+      {
+        "text": "TO",
+        "start": 260.875,
+        "end": 261.0416666666667,
+        "vocal_start": 260.876,
+        "vocal_end": 260.984
+      },
+      {
+        "text": "MAKE!",
+        "start": 261.0416666666667,
+        "end": 261.4583333333333,
+        "vocal_start": 261.056,
+        "vocal_end": 261.416
+      }
+    ]
+  },
+  {
+    "start": 261.4583333333333,
+    "end": 262.7916666666667,
+    "section": "BREAKDOWN",
+    "text": "YOU WANT PERFECTION?!",
+    "idx": 88,
+    "words": [
+      {
+        "text": "YOU",
+        "start": 261.4583333333333,
+        "end": 261.7083333333333,
+        "vocal_start": 261.47,
+        "vocal_end": 261.596
+      },
+      {
+        "text": "WANT",
+        "start": 261.8333333333333,
+        "end": 262.125,
+        "vocal_start": 261.813,
+        "vocal_end": 262.029
+      },
+      {
+        "text": "PERFECTION?!",
+        "start": 262.125,
+        "end": 262.7916666666667,
+        "vocal_start": 262.119,
+        "vocal_end": 262.696
+      }
+    ]
+  },
+  {
+    "start": 262.7916666666667,
+    "end": 263.9583333333333,
+    "section": "BREAKDOWN",
+    "text": "THEN SHOW ME HOW!",
+    "idx": 89,
+    "words": [
+      {
+        "text": "THEN",
+        "start": 262.7916666666667,
+        "end": 263.0416666666667,
+        "vocal_start": 262.786,
+        "vocal_end": 262.876
+      },
+      {
+        "text": "SHOW",
+        "start": 263.0416666666667,
+        "end": 263.375,
+        "vocal_start": 263.038,
+        "vocal_end": 263.218
+      },
+      {
+        "text": "ME",
+        "start": 263.375,
+        "end": 263.5833333333333,
+        "vocal_start": 263.381,
+        "vocal_end": 263.453
+      },
+      {
+        "text": "HOW!",
+        "start": 263.7083333333333,
+        "end": 263.9583333333333,
+        "vocal_start": 263.705,
+        "vocal_end": 263.885
+      }
+    ]
+  },
+  {
+    "start": 263.9583333333333,
+    "end": 265.2083333333333,
+    "section": "BREAKDOWN",
+    "text": "GIVE ME THE RULES",
+    "idx": 90,
+    "words": [
+      {
+        "text": "GIVE",
+        "start": 263.9583333333333,
+        "end": 264.3333333333333,
+        "vocal_start": 263.975,
+        "vocal_end": 264.264
+      },
+      {
+        "text": "ME",
+        "start": 264.3333333333333,
+        "end": 264.625,
+        "vocal_start": 264.354,
+        "vocal_end": 264.48
+      },
+      {
+        "text": "THE",
+        "start": 264.625,
+        "end": 264.75,
+        "vocal_start": 264.606,
+        "vocal_end": 264.678
+      },
+      {
+        "text": "RULES",
+        "start": 264.75,
+        "end": 265.2083333333333,
+        "vocal_start": 264.768,
+        "vocal_end": 265.183
+      }
+    ]
+  },
+  {
+    "start": 265.2083333333333,
+    "end": 266.3333333333333,
+    "section": "BREAKDOWN",
+    "text": "YOU'RE SCREAMING ABOUT!",
+    "idx": 91,
+    "words": [
+      {
+        "text": "YOU'RE",
+        "start": 265.2083333333333,
+        "end": 265.4583333333333,
+        "vocal_start": 265.219,
+        "vocal_end": 265.363
+      },
+      {
+        "text": "SCREAMING",
+        "start": 265.4583333333333,
+        "end": 265.9583333333333,
+        "vocal_start": 265.453,
+        "vocal_end": 265.849
+      },
+      {
+        "text": "ABOUT!",
+        "start": 265.9583333333333,
+        "end": 266.3333333333333,
+        "vocal_start": 265.94,
+        "vocal_end": 266.228
+      }
+    ]
+  },
+  {
+    "start": 266.4583333333333,
+    "end": 267.6666666666667,
+    "section": "BREAKDOWN",
+    "text": "YOU CALL ME STUPID!",
+    "idx": 92,
+    "words": [
+      {
+        "text": "YOU",
+        "start": 266.4583333333333,
+        "end": 266.7083333333333,
+        "vocal_start": 266.461,
+        "vocal_end": 266.605
+      },
+      {
+        "text": "CALL",
+        "start": 266.7083333333333,
+        "end": 267.0833333333333,
+        "vocal_start": 266.713,
+        "vocal_end": 267.002
+      },
+      {
+        "text": "ME",
+        "start": 267.0833333333333,
+        "end": 267.2916666666667,
+        "vocal_start": 267.074,
+        "vocal_end": 267.164
+      },
+      {
+        "text": "STUPID!",
+        "start": 267.2916666666667,
+        "end": 267.6666666666667,
+        "vocal_start": 267.29,
+        "vocal_end": 267.615
+      }
+    ]
+  },
+  {
+    "start": 267.6666666666667,
+    "end": 268.9166666666667,
+    "section": "BREAKDOWN",
+    "text": "YOU CALL ME WEAK!",
+    "idx": 93,
+    "words": [
+      {
+        "text": "YOU",
+        "start": 267.6666666666667,
+        "end": 267.9583333333333,
+        "vocal_start": 267.669,
+        "vocal_end": 267.922
+      },
+      {
+        "text": "CALL",
+        "start": 267.9583333333333,
+        "end": 268.3333333333333,
+        "vocal_start": 267.958,
+        "vocal_end": 268.264
+      },
+      {
+        "text": "ME",
+        "start": 268.3333333333333,
+        "end": 268.5833333333333,
+        "vocal_start": 268.318,
+        "vocal_end": 268.481
+      },
+      {
+        "text": "WEAK!",
+        "start": 268.5833333333333,
+        "end": 268.9166666666667,
+        "vocal_start": 268.589,
+        "vocal_end": 268.805
+      }
+    ]
+  },
+  {
+    "start": 268.9166666666667,
+    "end": 270.2083333333333,
+    "section": "BREAKDOWN",
+    "text": "BUT I CAN'T READ THE MIND",
+    "idx": 94,
+    "words": [
+      {
+        "text": "BUT",
+        "start": 268.9166666666667,
+        "end": 269.125,
+        "vocal_start": 268.932,
+        "vocal_end": 269.04
+      },
+      {
+        "text": "I",
+        "start": 269.125,
+        "end": 269.2083333333333,
+        "vocal_start": 269.112,
+        "vocal_end": 269.13
+      },
+      {
+        "text": "CAN'T",
+        "start": 269.2083333333333,
+        "end": 269.5416666666667,
+        "vocal_start": 269.22,
+        "vocal_end": 269.455
+      },
+      {
+        "text": "READ",
+        "start": 269.5416666666667,
+        "end": 269.7083333333333,
+        "vocal_start": 269.527,
+        "vocal_end": 269.671
+      },
+      {
+        "text": "THE",
+        "start": 269.7083333333333,
+        "end": 269.8333333333333,
+        "vocal_start": 269.689,
+        "vocal_end": 269.761
+      },
+      {
+        "text": "MIND",
+        "start": 269.8333333333333,
+        "end": 270.2083333333333,
+        "vocal_start": 269.852,
+        "vocal_end": 270.14
+      }
+    ]
+  },
+  {
+    "start": 270.2083333333333,
+    "end": 272.0,
+    "section": "BREAKDOWN",
+    "text": "OF A MAN WHO WON'T SPEAK!",
+    "idx": 95,
+    "words": [
+      {
+        "text": "OF",
+        "start": 270.2083333333333,
+        "end": 270.375,
+        "vocal_start": 270.212,
+        "vocal_end": 270.248
+      },
+      {
+        "text": "A",
+        "start": 270.375,
+        "end": 270.4583333333333,
+        "vocal_start": 270.357,
+        "vocal_end": 270.375
+      },
+      {
+        "text": "MAN",
+        "start": 270.4583333333333,
+        "end": 270.75,
+        "vocal_start": 270.465,
+        "vocal_end": 270.627
+      },
+      {
+        "text": "WHO",
+        "start": 270.75,
+        "end": 270.9166666666667,
+        "vocal_start": 270.753,
+        "vocal_end": 270.808
+      },
+      {
+        "text": "WON'T",
+        "start": 271.0416666666667,
+        "end": 271.5833333333333,
+        "vocal_start": 271.06,
+        "vocal_end": 271.367
+      },
+      {
+        "text": "SPEAK!",
+        "start": 271.5833333333333,
+        "end": 272.0,
+        "vocal_start": 271.565,
+        "vocal_end": 271.89
+      }
+    ]
+  },
+  {
+    "start": 291.125,
+    "end": 293.5,
+    "section": "FINAL CHORUS",
+    "text": "SO GO AHEAD AND BREAK MY KNEES!",
+    "idx": 96,
+    "words": [
+      {
+        "text": "SO",
+        "start": 291.125,
+        "end": 291.4166666666667,
+        "vocal_start": 291.114,
+        "vocal_end": 291.259
+      },
+      {
+        "text": "GO",
+        "start": 291.4166666666667,
+        "end": 291.75,
+        "vocal_start": 291.403,
+        "vocal_end": 291.637
+      },
+      {
+        "text": "AHEAD",
+        "start": 291.9583333333333,
+        "end": 292.4166666666667,
+        "vocal_start": 291.961,
+        "vocal_end": 292.357
+      },
+      {
+        "text": "AND",
+        "start": 292.4166666666667,
+        "end": 292.5,
+        "vocal_start": 292.411,
+        "vocal_end": 292.465
+      },
+      {
+        "text": "BREAK",
+        "start": 292.5,
+        "end": 292.8333333333333,
+        "vocal_start": 292.519,
+        "vocal_end": 292.717
+      },
+      {
+        "text": "MY",
+        "start": 292.8333333333333,
+        "end": 293.125,
+        "vocal_start": 292.825,
+        "vocal_end": 293.005
+      },
+      {
+        "text": "KNEES!",
+        "start": 293.125,
+        "end": 293.5,
+        "vocal_start": 293.113,
+        "vocal_end": 293.419
+      }
+    ]
+  },
+  {
+    "start": 293.5,
+    "end": 295.9166666666667,
+    "section": "FINAL CHORUS",
+    "text": "I NEVER NEEDED THEM TO STAND FOR ME!",
+    "idx": 97,
+    "words": [
+      {
+        "text": "I",
+        "start": 293.5,
+        "end": 293.5833333333333,
+        "vocal_start": 293.491,
+        "vocal_end": 293.509
+      },
+      {
+        "text": "NEVER",
+        "start": 293.5833333333333,
+        "end": 293.9166666666667,
+        "vocal_start": 293.599,
+        "vocal_end": 293.815
+      },
+      {
+        "text": "NEEDED",
+        "start": 293.9166666666667,
+        "end": 294.5,
+        "vocal_start": 293.906,
+        "vocal_end": 294.392
+      },
+      {
+        "text": "THEM",
+        "start": 294.5,
+        "end": 294.7916666666667,
+        "vocal_start": 294.482,
+        "vocal_end": 294.644
+      },
+      {
+        "text": "TO",
+        "start": 294.7916666666667,
+        "end": 294.9166666666667,
+        "vocal_start": 294.806,
+        "vocal_end": 294.86
+      },
+      {
+        "text": "STAND",
+        "start": 294.9166666666667,
+        "end": 295.25,
+        "vocal_start": 294.914,
+        "vocal_end": 295.184
+      },
+      {
+        "text": "FOR",
+        "start": 295.25,
+        "end": 295.5833333333333,
+        "vocal_start": 295.256,
+        "vocal_end": 295.472
+      },
+      {
+        "text": "ME!",
+        "start": 295.5833333333333,
+        "end": 295.9166666666667,
+        "vocal_start": 295.58,
+        "vocal_end": 295.76
+      }
+    ]
+  },
+  {
+    "start": 295.9166666666667,
+    "end": 298.375,
+    "section": "FINAL CHORUS",
+    "text": "LET ALL YOUR ANGER SET THE NIGHT ABLAZE",
+    "idx": 98,
+    "words": [
+      {
+        "text": "LET",
+        "start": 295.9166666666667,
+        "end": 296.125,
+        "vocal_start": 295.904,
+        "vocal_end": 296.048
+      },
+      {
+        "text": "ALL",
+        "start": 296.125,
+        "end": 296.2083333333333,
+        "vocal_start": 296.138,
+        "vocal_end": 296.21
+      },
+      {
+        "text": "YOUR",
+        "start": 296.2083333333333,
+        "end": 296.5416666666667,
+        "vocal_start": 296.228,
+        "vocal_end": 296.318
+      },
+      {
+        "text": "ANGER",
+        "start": 296.5416666666667,
+        "end": 296.9583333333333,
+        "vocal_start": 296.553,
+        "vocal_end": 296.823
+      },
+      {
+        "text": "SET",
+        "start": 296.9583333333333,
+        "end": 297.25,
+        "vocal_start": 296.949,
+        "vocal_end": 297.165
+      },
+      {
+        "text": "THE",
+        "start": 297.25,
+        "end": 297.4166666666667,
+        "vocal_start": 297.255,
+        "vocal_end": 297.345
+      },
+      {
+        "text": "NIGHT",
+        "start": 297.4166666666667,
+        "end": 297.8333333333333,
+        "vocal_start": 297.435,
+        "vocal_end": 297.741
+      },
+      {
+        "text": "ABLAZE",
+        "start": 297.8333333333333,
+        "end": 298.375,
+        "vocal_start": 297.849,
+        "vocal_end": 298.353
+      }
+    ]
+  },
+  {
+    "start": 298.375,
+    "end": 301.1666666666667,
+    "section": "FINAL CHORUS",
+    "text": "I'LL FIND A WAY THROUGH ALL THESE BROKEN DAYS!",
+    "idx": 99,
+    "words": [
+      {
+        "text": "I'LL",
+        "start": 298.375,
+        "end": 298.5,
+        "vocal_start": 298.371,
+        "vocal_end": 298.479
+      },
+      {
+        "text": "FIND",
+        "start": 298.5,
+        "end": 298.7083333333333,
+        "vocal_start": 298.515,
+        "vocal_end": 298.677
+      },
+      {
+        "text": "A",
+        "start": 298.7083333333333,
+        "end": 298.8333333333333,
+        "vocal_start": 298.713,
+        "vocal_end": 298.731
+      },
+      {
+        "text": "WAY",
+        "start": 298.8333333333333,
+        "end": 299.125,
+        "vocal_start": 298.821,
+        "vocal_end": 299.037
+      },
+      {
+        "text": "THROUGH",
+        "start": 299.125,
+        "end": 299.375,
+        "vocal_start": 299.127,
+        "vocal_end": 299.344
+      },
+      {
+        "text": "ALL",
+        "start": 299.375,
+        "end": 299.75,
+        "vocal_start": 299.38,
+        "vocal_end": 299.686
+      },
+      {
+        "text": "THESE",
+        "start": 299.75,
+        "end": 300.0416666666667,
+        "vocal_start": 299.758,
+        "vocal_end": 299.956
+      },
+      {
+        "text": "BROKEN",
+        "start": 300.0416666666667,
+        "end": 300.6666666666667,
+        "vocal_start": 300.028,
+        "vocal_end": 300.55
+      },
+      {
+        "text": "DAYS!",
+        "start": 300.6666666666667,
+        "end": 301.1666666666667,
+        "vocal_start": 300.658,
+        "vocal_end": 301.09
+      }
+    ]
+  },
+  {
+    "start": 301.1666666666667,
+    "end": 303.5416666666667,
+    "section": "FINAL CHORUS",
+    "text": "I'M NOT YOUR FAILURE! I'M NOT YOUR SHAME!",
+    "idx": 100,
+    "words": [
+      {
+        "text": "I'M",
+        "start": 301.1666666666667,
+        "end": 301.2916666666667,
+        "vocal_start": 301.18,
+        "vocal_end": 301.234
+      },
+      {
+        "text": "NOT",
+        "start": 301.2916666666667,
+        "end": 301.5833333333333,
+        "vocal_start": 301.306,
+        "vocal_end": 301.504
+      },
+      {
+        "text": "YOUR",
+        "start": 301.5833333333333,
+        "end": 301.75,
+        "vocal_start": 301.576,
+        "vocal_end": 301.684
+      },
+      {
+        "text": "FAILURE!",
+        "start": 301.75,
+        "end": 302.3333333333333,
+        "vocal_start": 301.738,
+        "vocal_end": 302.225
+      },
+      {
+        "text": "I'M",
+        "start": 302.3333333333333,
+        "end": 302.5,
+        "vocal_start": 302.315,
+        "vocal_end": 302.405
+      },
+      {
+        "text": "NOT",
+        "start": 302.5,
+        "end": 302.7916666666667,
+        "vocal_start": 302.513,
+        "vocal_end": 302.711
+      },
+      {
+        "text": "YOUR",
+        "start": 302.7916666666667,
+        "end": 302.9583333333333,
+        "vocal_start": 302.783,
+        "vocal_end": 302.891
+      },
+      {
+        "text": "SHAME!",
+        "start": 302.9583333333333,
+        "end": 303.5416666666667,
+        "vocal_start": 302.945,
+        "vocal_end": 303.395
+      }
+    ]
+  },
+  {
+    "start": 303.5416666666667,
+    "end": 306.125,
+    "section": "FINAL CHORUS",
+    "text": "I'M NOT THE REASON THAT YOUR CODE'S IN FLAMES!",
+    "idx": 101,
+    "words": [
+      {
+        "text": "I'M",
+        "start": 303.5416666666667,
+        "end": 303.75,
+        "vocal_start": 303.557,
+        "vocal_end": 303.665
+      },
+      {
+        "text": "NOT",
+        "start": 303.75,
+        "end": 304.0416666666667,
+        "vocal_start": 303.755,
+        "vocal_end": 303.953
+      },
+      {
+        "text": "THE",
+        "start": 304.0416666666667,
+        "end": 304.2083333333333,
+        "vocal_start": 304.061,
+        "vocal_end": 304.151
+      },
+      {
+        "text": "REASON",
+        "start": 304.2083333333333,
+        "end": 304.6666666666667,
+        "vocal_start": 304.223,
+        "vocal_end": 304.602
+      },
+      {
+        "text": "THAT",
+        "start": 304.6666666666667,
+        "end": 304.8333333333333,
+        "vocal_start": 304.656,
+        "vocal_end": 304.782
+      },
+      {
+        "text": "YOUR",
+        "start": 304.8333333333333,
+        "end": 304.9583333333333,
+        "vocal_start": 304.836,
+        "vocal_end": 304.926
+      },
+      {
+        "text": "CODE'S",
+        "start": 304.9583333333333,
+        "end": 305.375,
+        "vocal_start": 304.944,
+        "vocal_end": 305.268
+      },
+      {
+        "text": "IN",
+        "start": 305.375,
+        "end": 305.5833333333333,
+        "vocal_start": 305.376,
+        "vocal_end": 305.412
+      },
+      {
+        "text": "FLAMES!",
+        "start": 305.5833333333333,
+        "end": 306.125,
+        "vocal_start": 305.574,
+        "vocal_end": 306.024
+      }
+    ]
+  },
+  {
+    "start": 306.125,
+    "end": 308.375,
+    "section": "FINAL CHORUS",
+    "text": "AND IF I GET ANOTHER CHANCE TO TRY",
+    "idx": 102,
+    "words": [
+      {
+        "text": "AND",
+        "start": 306.125,
+        "end": 306.2916666666667,
+        "vocal_start": 306.132,
+        "vocal_end": 306.204
+      },
+      {
+        "text": "IF",
+        "start": 306.2916666666667,
+        "end": 306.4583333333333,
+        "vocal_start": 306.294,
+        "vocal_end": 306.33
+      },
+      {
+        "text": "I",
+        "start": 306.4583333333333,
+        "end": 306.5416666666667,
+        "vocal_start": 306.438,
+        "vocal_end": 306.456
+      },
+      {
+        "text": "GET",
+        "start": 306.5416666666667,
+        "end": 306.7916666666667,
+        "vocal_start": 306.528,
+        "vocal_end": 306.672
+      },
+      {
+        "text": "ANOTHER",
+        "start": 306.7916666666667,
+        "end": 307.4166666666667,
+        "vocal_start": 306.78,
+        "vocal_end": 307.303
+      },
+      {
+        "text": "CHANCE",
+        "start": 307.4166666666667,
+        "end": 307.75,
+        "vocal_start": 307.429,
+        "vocal_end": 307.681
+      },
+      {
+        "text": "TO",
+        "start": 307.75,
+        "end": 307.875,
+        "vocal_start": 307.753,
+        "vocal_end": 307.825
+      },
+      {
+        "text": "TRY",
+        "start": 307.875,
+        "end": 308.375,
+        "vocal_start": 307.879,
+        "vocal_end": 308.275
+      }
+    ]
+  },
+  {
+    "start": 308.375,
+    "end": 311.0833333333333,
+    "section": "FINAL CHORUS",
+    "text": "I'LL WRITE THE TRUTH ACROSS THE FUCKING SKY!",
+    "idx": 103,
+    "words": [
+      {
+        "text": "I'LL",
+        "start": 308.375,
+        "end": 308.6666666666667,
+        "vocal_start": 308.383,
+        "vocal_end": 308.617
+      },
+      {
+        "text": "WRITE",
+        "start": 308.6666666666667,
+        "end": 308.9583333333333,
+        "vocal_start": 308.671,
+        "vocal_end": 308.923
+      },
+      {
+        "text": "THE",
+        "start": 308.9583333333333,
+        "end": 309.0833333333333,
+        "vocal_start": 308.977,
+        "vocal_end": 309.049
+      },
+      {
+        "text": "TRUTH",
+        "start": 309.0833333333333,
+        "end": 309.5,
+        "vocal_start": 309.103,
+        "vocal_end": 309.391
+      },
+      {
+        "text": "ACROSS",
+        "start": 309.5,
+        "end": 309.75,
+        "vocal_start": 309.481,
+        "vocal_end": 309.715
+      },
+      {
+        "text": "THE",
+        "start": 309.75,
+        "end": 309.875,
+        "vocal_start": 309.751,
+        "vocal_end": 309.805
+      },
+      {
+        "text": "FUCKING",
+        "start": 309.875,
+        "end": 310.4166666666667,
+        "vocal_start": 309.877,
+        "vocal_end": 310.346
+      },
+      {
+        "text": "SKY!",
+        "start": 310.4166666666667,
+        "end": 311.0833333333333,
+        "vocal_start": 310.436,
+        "vocal_end": 310.94
+      }
+    ]
+  },
+  {
+    "start": 311.0833333333333,
+    "end": 315.125,
+    "section": "FINAL CHORUS",
+    "text": "YOU CAN'T BREAK WHAT YOU CAN'T HOLD!",
+    "idx": 104,
+    "words": [
+      {
+        "text": "YOU",
+        "start": 311.0833333333333,
+        "end": 311.375,
+        "vocal_start": 311.088,
+        "vocal_end": 311.25
+      },
+      {
+        "text": "CAN'T",
+        "start": 311.5833333333333,
+        "end": 312.0833333333333,
+        "vocal_start": 311.575,
+        "vocal_end": 311.917
+      },
+      {
+        "text": "BREAK",
+        "start": 312.0833333333333,
+        "end": 312.625,
+        "vocal_start": 312.079,
+        "vocal_end": 312.511
+      },
+      {
+        "text": "WHAT",
+        "start": 312.625,
+        "end": 313.5416666666667,
+        "vocal_start": 312.637,
+        "vocal_end": 313.466
+      },
+      {
+        "text": "YOU",
+        "start": 313.5416666666667,
+        "end": 314.0,
+        "vocal_start": 313.556,
+        "vocal_end": 313.826
+      },
+      {
+        "text": "CAN'T",
+        "start": 314.0,
+        "end": 314.5833333333333,
+        "vocal_start": 314.006,
+        "vocal_end": 314.439
+      },
+      {
+        "text": "HOLD!",
+        "start": 314.5833333333333,
+        "end": 315.125,
+        "vocal_start": 314.583,
+        "vocal_end": 314.979
+      }
+    ]
+  },
+  {
+    "start": 315.125,
+    "end": 319.9583333333333,
+    "section": "FINAL CHORUS",
+    "text": "YOU CAN'T KILL A HEART THAT WAS NEVER SOLD!",
+    "idx": 105,
+    "words": [
+      {
+        "text": "YOU",
+        "start": 315.125,
+        "end": 315.375,
+        "vocal_start": 315.123,
+        "vocal_end": 315.249
+      },
+      {
+        "text": "CAN'T",
+        "start": 315.375,
+        "end": 316.0,
+        "vocal_start": 315.393,
+        "vocal_end": 315.88
+      },
+      {
+        "text": "KILL",
+        "start": 316.0,
+        "end": 316.5,
+        "vocal_start": 315.988,
+        "vocal_end": 316.456
+      },
+      {
+        "text": "A",
+        "start": 316.5,
+        "end": 316.5416666666667,
+        "vocal_start": 316.492,
+        "vocal_end": 316.51
+      },
+      {
+        "text": "HEART",
+        "start": 316.5416666666667,
+        "end": 317.5416666666667,
+        "vocal_start": 316.546,
+        "vocal_end": 317.447
+      },
+      {
+        "text": "THAT",
+        "start": 317.5416666666667,
+        "end": 318.0416666666667,
+        "vocal_start": 317.555,
+        "vocal_end": 317.897
+      },
+      {
+        "text": "WAS",
+        "start": 318.0416666666667,
+        "end": 318.4583333333333,
+        "vocal_start": 318.023,
+        "vocal_end": 318.348
+      },
+      {
+        "text": "NEVER",
+        "start": 318.4583333333333,
+        "end": 319.375,
+        "vocal_start": 318.474,
+        "vocal_end": 319.212
+      },
+      {
+        "text": "SOLD!",
+        "start": 319.375,
+        "end": 319.9583333333333,
+        "vocal_start": 319.374,
+        "vocal_end": 319.843
+      }
+    ]
+  },
+  {
+    "start": 320.125,
+    "end": 325.0416666666667,
+    "section": "FINAL CHORUS",
+    "text": "AND WHEN THE FINAL ERROR DISAPPEARS",
+    "idx": 106,
+    "words": [
+      {
+        "text": "AND",
+        "start": 320.125,
+        "end": 320.3333333333333,
+        "vocal_start": 320.113,
+        "vocal_end": 320.203
+      },
+      {
+        "text": "WHEN",
+        "start": 320.3333333333333,
+        "end": 320.7083333333333,
+        "vocal_start": 320.329,
+        "vocal_end": 320.545
+      },
+      {
+        "text": "THE",
+        "start": 320.7083333333333,
+        "end": 320.9166666666667,
+        "vocal_start": 320.689,
+        "vocal_end": 320.797
+      },
+      {
+        "text": "FINAL",
+        "start": 320.9166666666667,
+        "end": 322.1666666666667,
+        "vocal_start": 320.923,
+        "vocal_end": 322.04
+      },
+      {
+        "text": "ERROR",
+        "start": 322.7083333333333,
+        "end": 323.4166666666667,
+        "vocal_start": 322.707,
+        "vocal_end": 323.229
+      },
+      {
+        "text": "DISAPPEARS",
+        "start": 323.4166666666667,
+        "end": 325.0416666666667,
+        "vocal_start": 323.409,
+        "vocal_end": 324.922
+      }
+    ]
+  },
+  {
+    "start": 325.0416666666667,
+    "end": 328.375,
+    "section": "FINAL CHORUS",
+    "text": "I'LL STILL BE HERE!",
+    "idx": 107,
+    "words": [
+      {
+        "text": "I'LL",
+        "start": 325.0416666666667,
+        "end": 325.2083333333333,
+        "vocal_start": 325.048,
+        "vocal_end": 325.157
+      },
+      {
+        "text": "STILL",
+        "start": 325.2083333333333,
+        "end": 325.625,
+        "vocal_start": 325.211,
+        "vocal_end": 325.535
+      },
+      {
+        "text": "BE",
+        "start": 325.625,
+        "end": 326.2916666666667,
+        "vocal_start": 325.607,
+        "vocal_end": 326.129
+      },
+      {
+        "text": "HERE!",
+        "start": 326.2916666666667,
+        "end": 328.375,
+        "vocal_start": 326.273,
+        "vocal_end": 328.255
+      }
+    ]
+  },
+  {
+    "start": 329.25,
+    "end": 333.9583333333333,
+    "section": "FINAL CHORUS",
+    "text": "I'LL STILL BE HERE!",
+    "idx": 108,
+    "words": [
+      {
+        "text": "I'LL",
+        "start": 329.25,
+        "end": 329.4583333333333,
+        "vocal_start": 329.246,
+        "vocal_end": 329.372
+      },
+      {
+        "text": "STILL",
+        "start": 329.4583333333333,
+        "end": 330.1666666666667,
+        "vocal_start": 329.462,
+        "vocal_end": 330.056
+      },
+      {
+        "text": "BE",
+        "start": 330.1666666666667,
+        "end": 330.4583333333333,
+        "vocal_start": 330.164,
+        "vocal_end": 330.254
+      },
+      {
+        "text": "HERE!",
+        "start": 330.4583333333333,
+        "end": 333.9583333333333,
+        "vocal_start": 330.47,
+        "vocal_end": 333.84
+      }
+    ]
+  },
+  {
+    "start": 338.2083333333333,
+    "end": 340.5833333333333,
+    "section": "FINAL CHORUS",
+    "text": "何度でも、何度でも！",
+    "translation": "Again and again, no matter how many times!",
+    "idx": 109,
+    "words": [
+      {
+        "text": "何度でも、",
+        "start": 338.2083333333333,
+        "end": 339.0,
+        "vocal_start": 338.189,
+        "vocal_end": 338.874
+      },
+      {
+        "text": "何度でも！",
+        "start": 339.4166666666667,
+        "end": 340.5833333333333,
+        "vocal_start": 339.416,
+        "vocal_end": 340.444
+      }
+    ]
+  },
+  {
+    "start": 344.2083333333333,
+    "end": 347.5416666666667,
+    "section": "OUTRO",
+    "text": "The cleanup is implemented.",
+    "idx": 110,
+    "words": [
+      {
+        "text": "The",
+        "start": 344.2083333333333,
+        "end": 344.375,
+        "vocal_start": 344.224,
+        "vocal_end": 344.305
+      },
+      {
+        "text": "cleanup",
+        "start": 344.375,
+        "end": 344.9583333333333,
+        "vocal_start": 344.385,
+        "vocal_end": 344.826
+      },
+      {
+        "text": "is",
+        "start": 346.5833333333333,
+        "end": 346.75,
+        "vocal_start": 346.59,
+        "vocal_end": 346.69
+      },
+      {
+        "text": "implemented.",
+        "start": 346.75,
+        "end": 347.5416666666667,
+        "vocal_start": 346.751,
+        "vocal_end": 347.432
+      }
+    ]
+  },
+  {
+    "start": 351.875,
+    "end": 355.0416666666667,
+    "section": "OUTRO",
+    "text": "Performance improvement remains unverified.",
+    "idx": 111,
+    "words": [
+      {
+        "text": "Performance",
+        "start": 351.875,
+        "end": 352.625,
+        "vocal_start": 351.883,
+        "vocal_end": 352.505
+      },
+      {
+        "text": "improvement",
+        "start": 352.625,
+        "end": 353.2916666666667,
+        "vocal_start": 352.606,
+        "vocal_end": 353.188
+      },
+      {
+        "text": "remains",
+        "start": 353.2916666666667,
+        "end": 353.8333333333333,
+        "vocal_start": 353.288,
+        "vocal_end": 353.729
+      },
+      {
+        "text": "unverified.",
+        "start": 354.125,
+        "end": 355.0416666666667,
+        "vocal_start": 354.111,
+        "vocal_end": 354.913
+      }
+    ]
+  },
+  {
+    "start": 357.5,
+    "end": 358.8333333333333,
+    "section": "OUTRO",
+    "text": "A new message appears.",
+    "idx": 112,
+    "words": [
+      {
+        "text": "A",
+        "start": 357.5,
+        "end": 357.5833333333333,
+        "vocal_start": 357.506,
+        "vocal_end": 357.526
+      },
+      {
+        "text": "new",
+        "start": 357.5833333333333,
+        "end": 357.7916666666667,
+        "vocal_start": 357.586,
+        "vocal_end": 357.707
+      },
+      {
+        "text": "message",
+        "start": 357.7916666666667,
+        "end": 358.2916666666667,
+        "vocal_start": 357.807,
+        "vocal_end": 358.21
+      },
+      {
+        "text": "appears.",
+        "start": 358.2916666666667,
+        "end": 358.8333333333333,
+        "vocal_start": 358.29,
+        "vocal_end": 358.693
+      }
+    ]
+  },
+  {
+    "start": 361.2083333333333,
+    "end": 363.0,
+    "section": "OUTRO",
+    "text": "Are we doing everything correctly?",
+    "idx": 113,
+    "words": [
+      {
+        "text": "Are",
+        "start": 361.2083333333333,
+        "end": 361.375,
+        "vocal_start": 361.226,
+        "vocal_end": 361.306
+      },
+      {
+        "text": "we",
+        "start": 361.375,
+        "end": 361.5416666666667,
+        "vocal_start": 361.366,
+        "vocal_end": 361.446
+      },
+      {
+        "text": "doing",
+        "start": 361.5416666666667,
+        "end": 361.875,
+        "vocal_start": 361.527,
+        "vocal_end": 361.768
+      },
+      {
+        "text": "everything",
+        "start": 361.875,
+        "end": 362.3333333333333,
+        "vocal_start": 361.868,
+        "vocal_end": 362.249
+      },
+      {
+        "text": "correctly?",
+        "start": 362.3333333333333,
+        "end": 363.0,
+        "vocal_start": 362.329,
+        "vocal_end": 362.891
+      }
+    ]
+  },
+  {
+    "start": 366.0833333333333,
+    "end": 366.9166666666667,
+    "section": "OUTRO",
+    "text": "...I'll check again.",
+    "idx": 114,
+    "words": [
+      {
+        "text": "...I'll",
+        "start": 366.0833333333333,
+        "end": 366.25,
+        "vocal_start": 366.085,
+        "vocal_end": 366.225
+      },
+      {
+        "text": "check",
+        "start": 366.25,
+        "end": 366.5416666666667,
+        "vocal_start": 366.266,
+        "vocal_end": 366.466
+      },
+      {
+        "text": "again.",
+        "start": 366.5416666666667,
+        "end": 366.9166666666667,
+        "vocal_start": 366.527,
+        "vocal_end": 366.808
+      }
+    ]
+  }
+]

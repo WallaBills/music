@@ -1,0 +1,27 @@
+{
+  "video": "I-Dont-Have-Knees-Performance-Cut.mp4",
+  "resolution": [
+    1920,
+    1080
+  ],
+  "fps": 24,
+  "frames": 8973,
+  "video_duration": "373.875000",
+  "audio_duration": "373.880000",
+  "bytes": 83621810,
+  "sha256": "2a497a4d0c1ff40ff6a31529e14a13f656b0c5ec4849e47727e0d9f0e71b6828",
+  "full_decode": "passed",
+  "authored_shots": 81,
+  "median_shot_seconds": 4.833333333333329,
+  "longest_shot_seconds": 10.458333333333314,
+  "arc_shots": 1,
+  "maximum_camera_roll_degrees": 1.9490713598624996,
+  "maximum_camera_turn_degrees_per_second": 10.648178612192948,
+  "original_audio_packets_preserved": true,
+  "first_minute_lyric_cue_sha256": "c3d5bc7c3294af5e49b6863a40aa66feb52edca2cb70ef6f5c212d4fca141e43",
+  "word_onsets_checked_in_browser": 675,
+  "full_song_cues_sha256": "145d5a3e3de61334e629182181593bca9182c91f304912cb8051b92ca51ff47e",
+  "headbang_shots": 9,
+  "straight_on_headbang_shots": 4,
+  "crane_scale_relative_to_previous_cut": 1.9
+}
