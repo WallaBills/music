@@ -1,9 +1,14 @@
-# Performance and lyric-sync cut
+# Cinematic cut — I Don't Have Knees
 
-The full video is `I-Dont-Have-Knees.mp4` (1080p, 24 fps, 6:14). Download the MP4 using GitHub's **Download raw file** button.
+The latest full video is [I-Dont-Have-Knees.mp4](I-Dont-Have-Knees.mp4), in 1080p at 24 fps. Use GitHub’s **Download raw file** button to download it.
 
-This revision adds rhythmic camera bob to the nine headbanging shots. Four remain straight-on; the others use light alternating sway or impact shake, with roll under two degrees. The paper crane is 1.9× larger and has a clearer folded silhouette. The remaining lyric popups use explicit vocal-aligned timings, including the sung English response after the Japanese refrain. The approved first-minute timing file is unchanged.
+This revision adds a fast glitch-cut opening, alternating low/profile tracking coverage, expressive facial and hand reactions, vocal-timed snap zooms and three-frame crimson panic accents. The cage uses a creeping camera and soft foreground bars; the tunnel uses reversing roll and pulsed rim light. The finale makes a full orbit around the robot and flying crane, then returns to the closing dialogue and a clean fade to black.
 
-`Performance-Preview.mp4` samples straight-on headbanging, alternating sway and the enlarged crane in the final chorus. `Performance-Cut-Editable-Project.zip` contains the complete browser-rendered project, shot plan, timing files, alignment review records and validation reports. `Shot-Plan.md` and `word-timings.json` are also available separately.
+The corrected word timings and original soundtrack are unchanged.
 
-Earlier previews and project archives remain in this directory for comparison. They do not contain this latest revision.
+- [Cinematic preview](Cinematic-Preview.mp4): opening, panic, cage, tunnel and finale samples.
+- [Editable project](Cinematic-Cut-Editable-Project.zip): complete source, bundled fonts/Three.js, original audio, shot plan, cue files and validation tools.
+- [Shot plan](Shot-Plan.md): the 132 authored setups and their intentions.
+- [Validation report](cinematic-validation.json).
+
+Earlier previews and project archives remain for comparison and do not contain this revision.

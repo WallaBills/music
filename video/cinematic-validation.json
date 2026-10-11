@@ -1,0 +1,32 @@
+{
+  "video": "I-Dont-Have-Knees-Cinematic-Cut.mp4",
+  "resolution": [
+    1920,
+    1080
+  ],
+  "fps": 24,
+  "frames": 8973,
+  "video_duration": "373.875000",
+  "audio_duration": "373.880000",
+  "bytes": 83067171,
+  "sha256": "451db91e0e038bc792c8dbbbeb4a5febbcba8c414a2fed30d66a923cd261755f",
+  "full_decode": "passed",
+  "authored_shots": 132,
+  "median_shot_seconds": 2.5,
+  "longest_shot_seconds": 9.708333333333314,
+  "full_orbit_shots": 1,
+  "maximum_camera_roll_degrees": 14.98700030630853,
+  "maximum_camera_turn_degrees_per_second": 59.56590048261775,
+  "original_audio_packets_preserved": true,
+  "first_minute_lyric_cue_sha256": "c3d5bc7c3294af5e49b6863a40aa66feb52edca2cb70ef6f5c212d4fca141e43",
+  "word_onsets_checked_in_browser": 675,
+  "full_song_cues_sha256": "145d5a3e3de61334e629182181593bca9182c91f304912cb8051b92ca51ff47e",
+  "headbang_shots": 9,
+  "city_occlusions": 0,
+  "orbit_companion_framing_misses": 0,
+  "lyric_timing_unchanged_from_previous_cut": true,
+  "fade_to_black_complete_at_seconds": 370.05,
+  "crane_scale_relative_to_directors_cut": 1.9,
+  "frontal_headbang_setups": 4,
+  "continuous_24fps_timeline": true
+}
